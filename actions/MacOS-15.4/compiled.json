@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2025-11-15T16:13:33.430838+00:00",
+    "generatedAt": "2025-11-15T17:15:03.123216+00:00",
     "locale": "en",
     "fallbackLocale": "en",
     "sourceDatabase": "actions\\MacOS-15.4\\raw.sqlite",
@@ -51,7 +51,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.calculateexpression": {
       "rowId": 2,
@@ -97,7 +100,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.getitemtype": {
       "rowId": 3,
@@ -143,7 +149,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.getupcomingevents": {
       "rowId": 4,
@@ -240,7 +249,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.image.combine": {
       "rowId": 11,
@@ -320,7 +332,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.alert": {
       "rowId": 12,
@@ -400,7 +415,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.reminders.showlist": {
       "rowId": 13,
@@ -445,7 +463,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.properties.podcastshow": {
       "rowId": 14,
@@ -508,7 +529,13 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "url",
+        "string",
+        "number"
+      ]
     },
     "is.workflow.actions.seek": {
       "rowId": 15,
@@ -588,7 +615,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.listeningmode.set": {
       "rowId": 17,
@@ -651,7 +681,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.instapaper.get": {
       "rowId": 19,
@@ -713,7 +746,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.getparentdirectory": {
       "rowId": 20,
@@ -754,7 +790,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.setvolume": {
       "rowId": 21,
@@ -817,7 +856,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.properties.eventattendees": {
       "rowId": 22,
@@ -880,7 +922,12 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "bool",
+        "string",
+        "com.apple.shortcuts.Emailaddress"
+      ]
     },
     "is.workflow.actions.wordpress.post": {
       "rowId": 23,
@@ -1147,7 +1194,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.gettext": {
       "rowId": 27,
@@ -1193,7 +1243,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.skipforward": {
       "rowId": 28,
@@ -1239,7 +1292,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getvalueforkey": {
       "rowId": 29,
@@ -1319,7 +1375,14 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number",
+        "bool",
+        "date",
+        "string",
+        "file"
+      ]
     },
     "is.workflow.actions.encodemedia": {
       "rowId": 30,
@@ -1569,7 +1632,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.searchappstore": {
       "rowId": 32,
@@ -1683,7 +1749,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "app"
+      ]
     },
     "is.workflow.actions.openin": {
       "rowId": 36,
@@ -1781,7 +1850,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.url.expand": {
       "rowId": 37,
@@ -1827,7 +1899,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.resizewindow": {
       "rowId": 38,
@@ -1936,7 +2011,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.showdefinition": {
       "rowId": 40,
@@ -1982,7 +2060,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "net.whatsapp.WhatsApp.send": {
       "rowId": 42,
@@ -2028,7 +2109,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.removereminders": {
       "rowId": 44,
@@ -2074,7 +2158,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "com.apple.iBooksX.openin": {
       "rowId": 45,
@@ -2120,7 +2207,12 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "url",
+        "string"
+      ]
     },
     "com.agiletortoise.Tally2.get": {
       "rowId": 47,
@@ -2165,7 +2257,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.overlayimageonimage": {
       "rowId": 50,
@@ -2364,7 +2459,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.showinstore": {
       "rowId": 51,
@@ -2410,7 +2508,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.iTunesproduct",
+        "app"
+      ]
     },
     "is.workflow.actions.personalhotspot.password.get": {
       "rowId": 53,
@@ -2437,7 +2539,10 @@
       "outputTypeInstance": "CgQKAjAA",
       "customIcon": "Eh8KD3BlcnNvbmFsaG90c3BvdBoFV2hpdGUiBUdyZWVu",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.image.flip": {
       "rowId": 55,
@@ -2500,7 +2605,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.startscreensaver": {
       "rowId": 56,
@@ -2523,7 +2631,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EiYKF21vb24uYW5kLnN0YXJzLmFydGZyYW1lGgVXaGl0ZSIEQ3lhbg==",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.phonenumber": {
       "rowId": 57,
@@ -2569,7 +2680,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Phonenumber"
+      ]
     },
     "is.workflow.actions.round": {
       "rowId": 58,
@@ -2666,7 +2780,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.properties.ridestatus": {
       "rowId": 60,
@@ -2729,7 +2846,14 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "currencyAmount",
+        "placemark",
+        "string",
+        "date",
+        "person"
+      ]
     },
     "com.blackfoggames.TextTool.transform": {
       "rowId": 61,
@@ -3047,7 +3171,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.image.resize": {
       "rowId": 63,
@@ -3178,7 +3305,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "net.shinyfrog.bear-IOS.contents": {
       "rowId": 64,
@@ -3241,7 +3371,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.getwebpagecontents": {
       "rowId": 66,
@@ -3287,7 +3420,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.playsound": {
       "rowId": 67,
@@ -3333,7 +3469,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.converttimezone": {
       "rowId": 69,
@@ -3413,7 +3552,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "date"
+      ]
     },
     "com.agiletortoise.Drafts4.open": {
       "rowId": 71,
@@ -3544,7 +3686,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.handoff": {
       "rowId": 76,
@@ -3572,7 +3717,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "ChNDb250aW51ZUluU2hvcnRjdXRz",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getcurrentsong": {
       "rowId": 80,
@@ -3618,7 +3766,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.getdistance": {
       "rowId": 82,
@@ -3732,7 +3883,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.playmusic": {
       "rowId": 84,
@@ -3794,7 +3948,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.filter.articles": {
       "rowId": 87,
@@ -3942,7 +4099,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Article"
+      ]
     },
     "is.workflow.actions.format.number": {
       "rowId": 89,
@@ -4005,7 +4165,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.filter.displays": {
       "rowId": 99,
@@ -4148,7 +4311,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Display"
+      ]
     },
     "is.workflow.actions.selectphoto": {
       "rowId": 100,
@@ -4211,7 +4377,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.detectlanguage": {
       "rowId": 101,
@@ -4257,7 +4426,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.share": {
       "rowId": 105,
@@ -4302,7 +4474,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.properties.safariwebpage": {
       "rowId": 106,
@@ -4365,7 +4540,12 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string",
+        "url"
+      ]
     },
     "com.agiletortoise.Tally2.updatetally": {
       "rowId": 107,
@@ -4427,7 +4607,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.image.rotate": {
       "rowId": 108,
@@ -4490,7 +4673,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.omz-software.Pythonista.editscript": {
       "rowId": 109,
@@ -4535,7 +4721,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getbatterylevel": {
       "rowId": 110,
@@ -4581,7 +4770,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.dictatetext": {
       "rowId": 111,
@@ -4644,7 +4836,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.filter.contacts": {
       "rowId": 112,
@@ -4792,7 +4987,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "person"
+      ]
     },
     "com.flexibits.fantastical2.addevent": {
       "rowId": 113,
@@ -4872,7 +5070,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.importaudiofiles": {
       "rowId": 114,
@@ -4947,7 +5148,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.image.crop": {
       "rowId": 115,
@@ -5078,7 +5282,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.getparkedcarlocation": {
       "rowId": 116,
@@ -5101,7 +5308,10 @@
       "outputTypeInstance": "CiISIAoTY29tLmFwcGxlLnNob3J0Y3V0cxIJUGFya2VkQ2Fy",
       "customIcon": "EhMKCGNhci5maWxsEAEaBUdyZWVu",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.ParkedCar"
+      ]
     },
     "com.blackfoggames.Schemes.schemes": {
       "rowId": 117,
@@ -5164,7 +5374,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.properties.itunesartist": {
       "rowId": 118,
@@ -5227,7 +5440,13 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number",
+        "url",
+        "string",
+        "file"
+      ]
     },
     "is.workflow.actions.gettraveltime": {
       "rowId": 120,
@@ -5307,7 +5526,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Tripinfo"
+      ]
     },
     "is.workflow.actions.generatebarcode": {
       "rowId": 121,
@@ -5370,7 +5592,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.getitemname": {
       "rowId": 125,
@@ -5433,7 +5658,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.properties.trello": {
       "rowId": 128,
@@ -5496,7 +5724,13 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "date",
+        "string",
+        "file"
+      ]
     },
     "is.workflow.actions.watchmedo": {
       "rowId": 129,
@@ -5537,7 +5771,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.image.convert.finder": {
       "rowId": 130,
@@ -5634,7 +5871,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.file.select": {
       "rowId": 132,
@@ -5696,7 +5936,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.logout": {
       "rowId": 133,
@@ -5719,7 +5962,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EiYKF3BlcnNvbi5jcm9wLmNpcmNsZS5maWxsGgVXaGl0ZSIER3JheQ==",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.clearupnext": {
       "rowId": 134,
@@ -5747,7 +5993,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": null,
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.geturlcomponent": {
       "rowId": 137,
@@ -5810,7 +6059,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.selectcontacts": {
       "rowId": 138,
@@ -5856,7 +6108,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "person"
+      ]
     },
     "is.workflow.actions.filter.reminders": {
       "rowId": 141,
@@ -6004,7 +6259,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.statistics": {
       "rowId": 143,
@@ -6067,7 +6325,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "com.agiletortoise.Drafts4.get": {
       "rowId": 144,
@@ -6113,7 +6374,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.dropbox.open": {
       "rowId": 145,
@@ -6227,7 +6491,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.detect.text": {
       "rowId": 146,
@@ -6273,7 +6540,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.handoffplayback": {
       "rowId": 147,
@@ -6334,7 +6604,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.dropbox.appendfile": {
       "rowId": 149,
@@ -6431,7 +6704,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.dayonelog.dayoneiphone.post": {
       "rowId": 150,
@@ -6528,7 +6804,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.omnigroup.OmniFocus2.iPhone.pastetaskpaper": {
       "rowId": 154,
@@ -6642,7 +6921,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.getclipboard": {
       "rowId": 155,
@@ -6670,7 +6952,10 @@
       "outputTypeInstance": "EiUSIwohEh8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSCEFueXRoaW5n",
       "customIcon": "EhgKDmNsaXBib2FyZC5maWxsEAEaBEJsdWU=",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.pinboard.get": {
       "rowId": 156,
@@ -6733,7 +7018,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.addnewcontact": {
       "rowId": 158,
@@ -6898,7 +7186,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "person"
+      ]
     },
     "is.workflow.actions.scanbarcode": {
       "rowId": 160,
@@ -6923,7 +7214,10 @@
       "outputTypeInstance": "CgUKA4gBAA==",
       "customIcon": "EiAKEXFyY29kZS52aWV3ZmluZGVyGgVXaGl0ZSIER3JheQ==",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.filter.files": {
       "rowId": 162,
@@ -7071,7 +7365,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.compresspdf": {
       "rowId": 163,
@@ -7117,7 +7414,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.properties.ulysses.sheet": {
       "rowId": 165,
@@ -7180,7 +7480,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "jp.naver.line.message": {
       "rowId": 166,
@@ -7208,7 +7511,11 @@
       "outputTypeInstance": "IhEKBwoFCgOIAQAKBgoECgIwAA==",
       "customIcon": null,
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
+      ]
     },
     "is.workflow.actions.properties.music": {
       "rowId": 168,
@@ -7271,7 +7578,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.weather.forecast": {
       "rowId": 170,
@@ -7334,7 +7644,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.WeatherConditions"
+      ]
     },
     "com.omz-software.Pythonista.runscript": {
       "rowId": 172,
@@ -7396,7 +7709,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.hash": {
       "rowId": 174,
@@ -7459,7 +7775,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.rss.extract": {
       "rowId": 175,
@@ -7505,7 +7824,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.gethomeaccessorystate": {
       "rowId": 181,
@@ -7568,7 +7890,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.homeaccessory": {
       "rowId": 185,
@@ -7614,7 +7939,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getcurrentapp": {
       "rowId": 186,
@@ -7660,7 +7988,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "app"
+      ]
     },
     "is.workflow.actions.image.removebackground": {
       "rowId": 189,
@@ -7723,7 +8054,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.intercom": {
       "rowId": 192,
@@ -7785,7 +8119,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.viewresult": {
       "rowId": 193,
@@ -7831,7 +8168,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "net.shinyfrog.bear-IOS.grab": {
       "rowId": 195,
@@ -7928,7 +8268,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.podcasts.subscribe": {
       "rowId": 196,
@@ -7974,7 +8317,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Podcast",
+        "url"
+      ]
     },
     "is.workflow.actions.runsshscript": {
       "rowId": 197,
@@ -8122,7 +8469,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.connecttoservers": {
       "rowId": 198,
@@ -8163,7 +8513,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.list": {
       "rowId": 199,
@@ -8191,7 +8544,10 @@
       "outputTypeInstance": "EiUSIwohEh8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSCEFueXRoaW5n",
       "customIcon": "EhwKC2xpc3QuYnVsbGV0GgVXaGl0ZSIGT3Jhbmdl",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.properties.podcast": {
       "rowId": 200,
@@ -8254,7 +8610,15 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "date",
+        "com.apple.shortcuts.Timeinterval",
+        "string",
+        "number",
+        "url"
+      ]
     },
     "is.workflow.actions.trello.get": {
       "rowId": 202,
@@ -8334,7 +8698,12 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Trellolist",
+        "com.apple.shortcuts.Trelloboard",
+        "com.apple.shortcuts.Trellocard"
+      ]
     },
     "is.workflow.actions.makespokenaudiofromtext": {
       "rowId": 203,
@@ -8448,7 +8817,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.tapbots.Tweetbot.viewprofile": {
       "rowId": 205,
@@ -8494,7 +8866,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.file.getlink": {
       "rowId": 208,
@@ -8540,7 +8915,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "com.boonbits.captio.appendtonote": {
       "rowId": 210,
@@ -8585,7 +8963,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.photos.createalbum": {
       "rowId": 211,
@@ -8647,7 +9028,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.giphy": {
       "rowId": 212,
@@ -8744,7 +9128,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "net.lickability.Quotebook.addquote": {
       "rowId": 215,
@@ -8824,7 +9211,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.format.filesize": {
       "rowId": 217,
@@ -8904,7 +9294,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "com.soulmen.ulysses.pad.insert": {
       "rowId": 218,
@@ -9052,7 +9445,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
+      ]
     },
     "is.workflow.actions.detect.link": {
       "rowId": 220,
@@ -9098,7 +9495,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "com.soulmen.ulysses.pad.attach": {
       "rowId": 221,
@@ -9212,7 +9612,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
+      ]
     },
     "is.workflow.actions.properties.articles": {
       "rowId": 222,
@@ -9275,7 +9679,14 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "string",
+        "file",
+        "date",
+        "number"
+      ]
     },
     "is.workflow.actions.splitpdf": {
       "rowId": 223,
@@ -9320,7 +9731,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.adjustdate": {
       "rowId": 224,
@@ -9400,7 +9814,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "date"
+      ]
     },
     "is.workflow.actions.exit": {
       "rowId": 225,
@@ -9428,7 +9845,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhgKCXN0b3AuZmlsbBoFV2hpdGUiBEdyYXk=",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.avairyeditphoto": {
       "rowId": 230,
@@ -9474,7 +9894,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.showinblindsquare": {
       "rowId": 232,
@@ -9536,7 +9959,17 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string",
+        "person",
+        "com.apple.shortcuts.Mapslink",
+        "com.apple.shortcuts.WeatherConditions",
+        "placemark",
+        "com.apple.shortcuts.ParkedCar",
+        "com.apple.shortcuts.Place",
+        "file"
+      ]
     },
     "is.workflow.actions.getrichtextfromhtml": {
       "rowId": 233,
@@ -9582,7 +10015,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.makegif": {
       "rowId": 236,
@@ -9730,7 +10166,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.displaysleep": {
       "rowId": 237,
@@ -9753,7 +10192,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhYKB2Rpc3BsYXkaBVdoaXRlIgRHcmF5",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.quit.app": {
       "rowId": 238,
@@ -9828,7 +10270,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getmyworkflows": {
       "rowId": 240,
@@ -9874,7 +10319,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.detect.dictionary": {
       "rowId": 241,
@@ -9920,7 +10368,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.searchpodcasts": {
       "rowId": 245,
@@ -10034,7 +10485,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Podcast"
+      ]
     },
     "is.workflow.actions.location": {
       "rowId": 247,
@@ -10080,7 +10534,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "placemark"
+      ]
     },
     "is.workflow.actions.searchweb": {
       "rowId": 248,
@@ -10143,7 +10600,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.setters.calendarevents": {
       "rowId": 249,
@@ -10444,7 +10904,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.filter.images": {
       "rowId": 250,
@@ -10592,7 +11055,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.measurement.convert": {
       "rowId": 252,
@@ -10672,7 +11138,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "length"
+      ]
     },
     "is.workflow.actions.addtoplaylist": {
       "rowId": 254,
@@ -10734,7 +11203,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.waittoreturn": {
       "rowId": 255,
@@ -10761,7 +11233,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EiYKF3BlcnNvbi5iYWRnZS5jbG9jay5maWxsGgVXaGl0ZSIER3JheQ==",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "com.apple.musicrecognition.RecognizeMusicIntent": {
       "rowId": 256,
@@ -10824,7 +11299,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Shazammedia"
+      ]
     },
     "is.workflow.actions.goodreader.open": {
       "rowId": 257,
@@ -10869,7 +11347,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.getitemfromlist": {
       "rowId": 258,
@@ -10983,7 +11464,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "squibner.AmazonLinker.search": {
       "rowId": 260,
@@ -11029,7 +11513,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "string"
+      ]
     },
     "is.workflow.actions.addnewevent": {
       "rowId": 261,
@@ -11228,7 +11716,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.file.reveal": {
       "rowId": 262,
@@ -11269,7 +11760,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getonscreencontent": {
       "rowId": 263,
@@ -11296,7 +11790,10 @@
       "outputTypeInstance": "EgkSBwoFCgOIAQA=",
       "customIcon": "Eh4KD3RleHQudmlld2ZpbmRlchoFV2hpdGUiBFBpbms=",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.soulmen.ulysses.pad.new-sheet": {
       "rowId": 264,
@@ -11393,7 +11890,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.makeimagefrompdfpage": {
       "rowId": 267,
@@ -11490,7 +11990,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.properties.shazam": {
       "rowId": 269,
@@ -11553,7 +12056,13 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string",
+        "url",
+        "bool"
+      ]
     },
     "is.workflow.actions.documentpicker.save": {
       "rowId": 270,
@@ -11667,7 +12176,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.evernote.new": {
       "rowId": 271,
@@ -11730,7 +12242,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Evernotenote"
+      ]
     },
     "is.workflow.actions.takevideo": {
       "rowId": 272,
@@ -11808,7 +12323,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.gethtmlfromrichtext": {
       "rowId": 273,
@@ -11871,7 +12389,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.mountdiskimage": {
       "rowId": 274,
@@ -11912,7 +12433,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.searchlocalbusinesses": {
       "rowId": 275,
@@ -11992,7 +12516,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Place"
+      ]
     },
     "is.workflow.actions.searchitunes": {
       "rowId": 276,
@@ -12123,7 +12650,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.iTunesproduct"
+      ]
     },
     "is.workflow.actions.input": {
       "rowId": 277,
@@ -12339,7 +12869,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getipaddress": {
       "rowId": 280,
@@ -12402,7 +12935,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "squibner.AmazonLinker.convert": {
       "rowId": 285,
@@ -12448,7 +12984,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "string"
+      ]
     },
     "is.workflow.actions.posters.get": {
       "rowId": 287,
@@ -12493,7 +13033,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Wallpaper"
+      ]
     },
     "is.workflow.actions.takescreenshot": {
       "rowId": 291,
@@ -12589,7 +13132,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.getdevicedetails": {
       "rowId": 293,
@@ -12635,7 +13181,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.savetocameraroll": {
       "rowId": 294,
@@ -12697,7 +13246,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.createplaylist": {
       "rowId": 296,
@@ -12794,7 +13346,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.dismisssiri": {
       "rowId": 298,
@@ -12822,7 +13377,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": null,
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.setvariable": {
       "rowId": 299,
@@ -12868,7 +13426,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.properties.parkedcar": {
       "rowId": 300,
@@ -12926,7 +13487,14 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string",
+        "date",
+        "placemark",
+        "file",
+        "bool"
+      ]
     },
     "is.workflow.actions.getlastvideo": {
       "rowId": 303,
@@ -12971,7 +13539,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.getcurrentlocation": {
       "rowId": 305,
@@ -13017,7 +13588,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "placemark"
+      ]
     },
     "is.workflow.actions.properties.contacts": {
       "rowId": 308,
@@ -13080,7 +13654,17 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Filesize",
+        "file",
+        "com.apple.shortcuts.Phonenumber",
+        "url",
+        "com.apple.shortcuts.Emailaddress",
+        "string",
+        "placemark",
+        "date"
+      ]
     },
     "is.workflow.actions.measurement.create": {
       "rowId": 310,
@@ -13143,7 +13727,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "length"
+      ]
     },
     "is.workflow.actions.runextension": {
       "rowId": 311,
@@ -13205,7 +13792,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.print": {
       "rowId": 314,
@@ -13250,7 +13840,12 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "file",
+        "string"
+      ]
     },
     "com.squibner.Blink.search": {
       "rowId": 315,
@@ -13296,7 +13891,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "string"
+      ]
     },
     "is.workflow.actions.text.trimwhitespace": {
       "rowId": 317,
@@ -13342,7 +13941,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.setters.reminders": {
       "rowId": 318,
@@ -13660,7 +14262,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.dnd.getfocus": {
       "rowId": 320,
@@ -13688,7 +14293,10 @@
       "outputTypeInstance": "Ch4SHAoTY29tLmFwcGxlLnNob3J0Y3V0cxIFRm9jdXM=",
       "customIcon": "EhoKCW1vb24uZmlsbBoFV2hpdGUiBkluZGlnbw==",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Focus"
+      ]
     },
     "is.workflow.actions.getnameofemoji": {
       "rowId": 321,
@@ -13734,7 +14342,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.getlastscreenshot": {
       "rowId": 322,
@@ -13779,7 +14390,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.tumblr.post": {
       "rowId": 323,
@@ -13978,7 +14592,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.get.playlist": {
       "rowId": 326,
@@ -14024,7 +14641,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.movewindow": {
       "rowId": 330,
@@ -14133,7 +14753,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.makeimagefromrichtext": {
       "rowId": 334,
@@ -14213,7 +14836,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.weather.currentconditions": {
       "rowId": 335,
@@ -14259,7 +14885,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.WeatherConditions"
+      ]
     },
     "is.workflow.actions.image.convert": {
       "rowId": 337,
@@ -14356,7 +14985,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.makevideofromgif": {
       "rowId": 339,
@@ -14419,7 +15051,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.showwebpage": {
       "rowId": 343,
@@ -14482,7 +15117,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "url"
+      ]
     },
     "is.workflow.actions.file.getfoldercontents": {
       "rowId": 344,
@@ -14545,7 +15184,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.filter.music": {
       "rowId": 346,
@@ -14693,7 +15335,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.playpodcast": {
       "rowId": 347,
@@ -14756,7 +15401,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Podcast",
+        "com.apple.shortcuts.Podcastepisode"
+      ]
     },
     "is.workflow.actions.runjavascriptonwebpage": {
       "rowId": 348,
@@ -14818,7 +15467,13 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string",
+        "file",
+        "number",
+        "bool"
+      ]
     },
     "is.workflow.actions.lockscreen": {
       "rowId": 349,
@@ -14844,7 +15499,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhgKCWxvY2suZmlsbBoFV2hpdGUiBEdyYXk=",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.overlaytext": {
       "rowId": 350,
@@ -15230,7 +15888,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.tapbots.Tweetbot.opentweetbot": {
       "rowId": 351,
@@ -15293,7 +15954,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.text.replace": {
       "rowId": 352,
@@ -15407,7 +16071,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.properties.files": {
       "rowId": 353,
@@ -15470,7 +16137,12 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Filesize",
+        "string",
+        "date"
+      ]
     },
     "is.workflow.actions.imgur.upload": {
       "rowId": 354,
@@ -15635,7 +16307,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.selectemail": {
       "rowId": 356,
@@ -15663,7 +16338,10 @@
       "outputTypeInstance": "EikSJwolEiMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSDEVtYWlsYWRkcmVzcw==",
       "customIcon": "EhwKDWVudmVsb3BlLmZpbGwaBVdoaXRlIgRDeWFu",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Emailaddress"
+      ]
     },
     "is.workflow.actions.gettimebetweendates": {
       "rowId": 357,
@@ -15743,7 +16421,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.url": {
       "rowId": 358,
@@ -15789,7 +16470,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "com.phocusllp.due.add": {
       "rowId": 360,
@@ -15903,7 +16587,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.setparkedcar": {
       "rowId": 362,
@@ -15978,7 +16665,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.ParkedCar"
+      ]
     },
     "is.workflow.actions.properties.workflow": {
       "rowId": 368,
@@ -16041,7 +16731,14 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number",
+        "date",
+        "string",
+        "com.apple.shortcuts.Filesize",
+        "file"
+      ]
     },
     "is.workflow.actions.searchmaps": {
       "rowId": 370,
@@ -16104,7 +16801,17 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Place",
+        "person",
+        "placemark",
+        "com.apple.shortcuts.ParkedCar",
+        "string",
+        "com.apple.shortcuts.Mapslink",
+        "file",
+        "com.apple.shortcuts.WeatherConditions"
+      ]
     },
     "com.skype.skype.call": {
       "rowId": 371,
@@ -16150,7 +16857,17 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Place",
+        "com.apple.shortcuts.Emailaddress",
+        "file",
+        "placemark",
+        "person",
+        "string",
+        "com.apple.shortcuts.Phonenumber",
+        "com.apple.shortcuts.Eventattendee"
+      ]
     },
     "is.workflow.actions.previewdocument": {
       "rowId": 372,
@@ -16214,7 +16931,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.detect.phonenumber": {
       "rowId": 374,
@@ -16260,7 +16980,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Phonenumber"
+      ]
     },
     "is.workflow.actions.file.delete": {
       "rowId": 375,
@@ -16323,7 +17046,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.recordaudio": {
       "rowId": 376,
@@ -16420,7 +17146,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.runapplescript": {
       "rowId": 377,
@@ -16461,7 +17190,13 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "bool",
+        "file",
+        "number",
+        "string"
+      ]
     },
     "is.workflow.actions.sleep": {
       "rowId": 379,
@@ -16484,7 +17219,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhkKCnBvd2Vyc2xlZXAaBVdoaXRlIgRHcmF5",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.file.append": {
       "rowId": 381,
@@ -16598,7 +17336,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.personalhotspot.password.set": {
       "rowId": 383,
@@ -16643,7 +17384,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "com.tapbots.Tweetbot.tweet": {
       "rowId": 384,
@@ -16689,7 +17433,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.evernote.append": {
       "rowId": 385,
@@ -16769,7 +17516,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Evernotenote"
+      ]
     },
     "is.workflow.actions.addnewcalendar": {
       "rowId": 386,
@@ -16815,7 +17565,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.removefromalbum": {
       "rowId": 387,
@@ -16877,7 +17630,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.delay": {
       "rowId": 388,
@@ -16923,7 +17679,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "com.omnigroup.OmniFocus2.iPhone.newitem": {
       "rowId": 389,
@@ -17122,7 +17881,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.wallpaper.set": {
       "rowId": 391,
@@ -17251,7 +18013,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Wallpaper"
+      ]
     },
     "com.guidedways.2Do.add": {
       "rowId": 392,
@@ -17535,7 +18300,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.address": {
       "rowId": 393,
@@ -17666,7 +18434,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "placemark"
+      ]
     },
     "is.workflow.actions.appendvariable": {
       "rowId": 397,
@@ -17712,7 +18483,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.setvalueforkey": {
       "rowId": 398,
@@ -17792,7 +18566,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.count": {
       "rowId": 401,
@@ -17855,7 +18632,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.properties.calendarevents": {
       "rowId": 402,
@@ -17918,7 +18698,18 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "com.apple.shortcuts.Filesize",
+        "com.apple.shortcuts.Timeinterval",
+        "com.apple.shortcuts.Eventattendee",
+        "number",
+        "file",
+        "date",
+        "bool",
+        "string"
+      ]
     },
     "is.workflow.actions.makepdf": {
       "rowId": 403,
@@ -18066,7 +18857,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.openpasswords": {
       "rowId": 404,
@@ -18111,7 +18905,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.url.getheaders": {
       "rowId": 405,
@@ -18157,7 +18954,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.getlatestphotoimport": {
       "rowId": 408,
@@ -18184,7 +18984,10 @@
       "outputTypeInstance": "EgkSBwoFCgOIAQA=",
       "customIcon": null,
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.splitscreen": {
       "rowId": 409,
@@ -18263,7 +19066,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.airdropdocument": {
       "rowId": 411,
@@ -18308,7 +19114,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.setitemname": {
       "rowId": 412,
@@ -18388,7 +19197,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.todoist.add": {
       "rowId": 413,
@@ -18553,7 +19365,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.detect.number": {
       "rowId": 418,
@@ -18599,7 +19414,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.detect.images": {
       "rowId": 420,
@@ -18645,7 +19463,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.evernote.getlink": {
       "rowId": 421,
@@ -18708,7 +19529,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.tweet": {
       "rowId": 422,
@@ -18754,7 +19578,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.evernote.delete": {
       "rowId": 425,
@@ -18800,7 +19627,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.postonfacebook": {
       "rowId": 426,
@@ -18845,7 +19675,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.dictionary": {
       "rowId": 427,
@@ -18894,6 +19727,9 @@
       "notes": [
         "Provide dictionary data via the `WFItems` parameter. When building shortcuts with `js-to-shortcut`, call `serialization.dictionary({ key: value })` and assign the result to `WFItems` (for example: `action('is.workflow.actions.dictionary', { WFItems: serialization.dictionary({ name: 'Value' }) })`).",
         "Each entry is stored as a `WFDictionaryFieldValueItem` with an inferred `WFItemType` \u2014 strings map to type 0, objects to 1, arrays to 2, numbers to 3, and booleans to 4. The serialization helper handles these conversions automatically."
+      ],
+      "outputTypes": [
+        "file"
       ]
     },
     "com.boonbits.captio.sendnote": {
@@ -18939,7 +19775,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.format.date": {
       "rowId": 430,
@@ -19087,7 +19926,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.takephoto": {
       "rowId": 431,
@@ -19165,7 +20007,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.unzip": {
       "rowId": 433,
@@ -19211,7 +20056,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.properties.reminders": {
       "rowId": 435,
@@ -19274,7 +20122,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "com.omz-software.Editorial.runworkflow": {
       "rowId": 436,
@@ -19353,7 +20204,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "com.soulmen.ulysses.pad.new-group": {
       "rowId": 437,
@@ -19433,7 +20287,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "com.tapbots.Tweetbot.searchtext": {
       "rowId": 439,
@@ -19496,7 +20353,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.setters.contacts": {
       "rowId": 442,
@@ -19950,7 +20810,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "person"
+      ]
     },
     "is.workflow.actions.vpn.set": {
       "rowId": 443,
@@ -20028,7 +20891,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.file.label": {
       "rowId": 444,
@@ -20086,7 +20952,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.trello.add.card": {
       "rowId": 445,
@@ -20234,7 +21103,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Trellocard"
+      ]
     },
     "is.workflow.actions.properties.itunesstore": {
       "rowId": 447,
@@ -20297,7 +21169,17 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.iTunesartist",
+        "com.apple.shortcuts.Timeinterval",
+        "file",
+        "date",
+        "number",
+        "bool",
+        "url",
+        "string"
+      ]
     },
     "com.tijo.opener.Opener.show-options": {
       "rowId": 448,
@@ -20342,7 +21224,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "com.soulmen.ulysses.pad.open": {
       "rowId": 449,
@@ -20422,7 +21307,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.selectphone": {
       "rowId": 450,
@@ -20450,7 +21338,10 @@
       "outputTypeInstance": "EigSJgokEiIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSC1Bob25lbnVtYmVy",
       "customIcon": "EhoKCnBob25lLmZpbGwaBVdoaXRlIgVHcmVlbg==",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Phonenumber"
+      ]
     },
     "com.culturedcode.ThingsTouch.addtask": {
       "rowId": 452,
@@ -20649,7 +21540,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.trello.add.list": {
       "rowId": 453,
@@ -20729,7 +21623,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Trellolist"
+      ]
     },
     "is.workflow.actions.getvariable": {
       "rowId": 454,
@@ -20775,7 +21672,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "com.panic.iOS.Transmit.Share": {
       "rowId": 456,
@@ -20855,7 +21755,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.evernote.get": {
       "rowId": 461,
@@ -20918,7 +21821,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Evernotenote"
+      ]
     },
     "is.workflow.actions.text.translate": {
       "rowId": 464,
@@ -20997,7 +21903,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.setairdropreceiving": {
       "rowId": 467,
@@ -21042,7 +21951,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.health.quantity.log": {
       "rowId": 468,
@@ -21069,7 +21981,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "CgZIZWFsdGg=",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.extracttextfromimage": {
       "rowId": 469,
@@ -21114,7 +22029,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.runshellscript": {
       "rowId": 471,
@@ -21223,7 +22141,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string",
+        "file"
+      ]
     },
     "com.squibner.Blink.convert": {
       "rowId": 473,
@@ -21251,7 +22173,11 @@
       "outputTypeInstance": "IhAKBgoECgJIAAoGCgQKAjAA",
       "customIcon": null,
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url",
+        "string"
+      ]
     },
     "is.workflow.actions.nothing": {
       "rowId": 476,
@@ -21279,7 +22205,10 @@
       "outputTypeInstance": "CiESHwoTY29tLmFwcGxlLnNob3J0Y3V0cxIIQW55dGhpbmc=",
       "customIcon": "Eh0KDXNxdWFyZS5kYXNoZWQaBUxhYmVsIgVDbGVhcg==",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.readinglist": {
       "rowId": 477,
@@ -21325,7 +22254,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.addnewreminder": {
       "rowId": 479,
@@ -21592,7 +22524,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.urlencode": {
       "rowId": 480,
@@ -21655,7 +22590,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.number.random": {
       "rowId": 481,
@@ -21718,7 +22656,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.getlatestlivephotos": {
       "rowId": 483,
@@ -21763,7 +22704,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.agiletortoise.Drafts4.runAction": {
       "rowId": 486,
@@ -21843,7 +22787,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.pocket.get": {
       "rowId": 487,
@@ -21940,7 +22887,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "com.agiletortoise.Drafts4.addto": {
       "rowId": 488,
@@ -22105,7 +23055,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.math": {
       "rowId": 490,
@@ -22219,7 +23172,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.getclassaction": {
       "rowId": 492,
@@ -22282,7 +23238,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.filter.eventattendees": {
       "rowId": 494,
@@ -22430,7 +23389,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Eventattendee"
+      ]
     },
     "is.workflow.actions.file.rename": {
       "rowId": 499,
@@ -22493,7 +23455,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.properties.locations": {
       "rowId": 501,
@@ -22556,7 +23521,13 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string",
+        "number",
+        "com.apple.shortcuts.Phonenumber",
+        "url"
+      ]
     },
     "is.workflow.actions.safari.geturl": {
       "rowId": 503,
@@ -22579,7 +23550,10 @@
       "outputTypeInstance": "CiYSJAoTY29tLmFwcGxlLnNob3J0Y3V0cxINU2FmYXJpd2VicGFnZQ==",
       "customIcon": null,
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Safariwebpage"
+      ]
     },
     "is.workflow.actions.base64encode": {
       "rowId": 505,
@@ -22659,7 +23633,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "ph.telegra.Telegraph.msg": {
       "rowId": 508,
@@ -22705,7 +23682,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.detect.emailaddress": {
       "rowId": 510,
@@ -22751,7 +23731,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Emailaddress"
+      ]
     },
     "is.workflow.actions.detect.address": {
       "rowId": 512,
@@ -22797,7 +23780,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "placemark"
+      ]
     },
     "is.workflow.actions.setclipboard": {
       "rowId": 513,
@@ -22877,7 +23863,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.instapaper.add": {
       "rowId": 514,
@@ -22939,7 +23928,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.getarticle": {
       "rowId": 519,
@@ -22985,7 +23977,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Article"
+      ]
     },
     "com.potionfactory.TheHitListMobile.tasks": {
       "rowId": 520,
@@ -23150,7 +24145,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "com.realmacsoftware.clear.createtask": {
       "rowId": 521,
@@ -23229,7 +24227,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.detect.contacts": {
       "rowId": 522,
@@ -23275,7 +24276,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "person"
+      ]
     },
     "com.google.chrome.ios.openurl": {
       "rowId": 524,
@@ -23321,7 +24325,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.file.createfolder": {
       "rowId": 525,
@@ -23384,7 +24391,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.addmusictoupnext": {
       "rowId": 526,
@@ -23446,7 +24456,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "com.apple.shortcuts.iTunesproduct"
+      ]
     },
     "is.workflow.actions.notification": {
       "rowId": 531,
@@ -23543,7 +24557,24 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Article",
+        "com.apple.shortcuts.Window",
+        "com.apple.shortcuts.Wallpaper",
+        "com.apple.shortcuts.Podcastepisode",
+        "person",
+        "com.apple.shortcuts.iTunesartist",
+        "com.apple.shortcuts.Display",
+        "app",
+        "placemark",
+        "com.apple.shortcuts.iTunesproduct",
+        "com.apple.shortcuts.Shazammedia",
+        "com.apple.shortcuts.Focus",
+        "com.apple.shortcuts.Podcast",
+        "file",
+        "com.apple.shortcuts.Evernotenote"
+      ]
     },
     "is.workflow.actions.getlastphoto": {
       "rowId": 532,
@@ -23605,7 +24636,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.openxcallbackurl": {
       "rowId": 533,
@@ -23753,7 +24787,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
+      ]
     },
     "is.workflow.actions.getwifi": {
       "rowId": 534,
@@ -23833,7 +24871,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.setplaybackdestination": {
       "rowId": 535,
@@ -23895,7 +24936,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.trello.add.board": {
       "rowId": 538,
@@ -23958,7 +25002,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Trelloboard"
+      ]
     },
     "is.workflow.actions.finder.getselectedfiles": {
       "rowId": 539,
@@ -23981,7 +25028,10 @@
       "outputTypeInstance": "EgkSBwoFCgOIAQA=",
       "customIcon": null,
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.output": {
       "rowId": 541,
@@ -24061,7 +25111,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.gettypeaction": {
       "rowId": 542,
@@ -24124,7 +25177,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.reboot": {
       "rowId": 545,
@@ -24169,7 +25225,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getmapslink": {
       "rowId": 546,
@@ -24215,7 +25274,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.lock.app": {
       "rowId": 548,
@@ -24275,7 +25337,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.trimvideo": {
       "rowId": 551,
@@ -24321,7 +25386,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.detect.date": {
       "rowId": 552,
@@ -24367,7 +25435,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "date"
+      ]
     },
     "is.workflow.actions.addframetogif": {
       "rowId": 553,
@@ -24498,7 +25569,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.speaktext": {
       "rowId": 556,
@@ -24629,7 +25703,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.showincalendar": {
       "rowId": 559,
@@ -24675,7 +25752,12 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Timeinterval",
+        "file",
+        "date"
+      ]
     },
     "is.workflow.actions.getlatestbursts": {
       "rowId": 561,
@@ -24720,7 +25802,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.number": {
       "rowId": 567,
@@ -24766,7 +25851,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number"
+      ]
     },
     "is.workflow.actions.filter.calendarevents": {
       "rowId": 568,
@@ -24914,7 +26002,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.file.move": {
       "rowId": 573,
@@ -24994,7 +26085,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.outerspaceapps.itranslate.translate": {
       "rowId": 575,
@@ -25073,7 +26167,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.filter.windows": {
       "rowId": 576,
@@ -25216,7 +26313,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Window"
+      ]
     },
     "is.workflow.actions.properties.appstore": {
       "rowId": 577,
@@ -25279,7 +26379,17 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "number",
+        "com.apple.shortcuts.iTunesartist",
+        "date",
+        "string",
+        "bool",
+        "file",
+        "url",
+        "com.apple.shortcuts.Filesize"
+      ]
     },
     "is.workflow.actions.hide.app": {
       "rowId": 580,
@@ -25337,7 +26447,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getmarkdownfromrichtext": {
       "rowId": 583,
@@ -25383,7 +26496,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.pocket.add": {
       "rowId": 586,
@@ -25446,7 +26562,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.exportsong": {
       "rowId": 589,
@@ -25490,7 +26609,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.apple.mobileslideshow.StreamShareService": {
       "rowId": 591,
@@ -25534,7 +26656,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.showresult": {
       "rowId": 592,
@@ -25580,7 +26705,12 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "placemark",
+        "string"
+      ]
     },
     "is.workflow.actions.gettextfrompdf": {
       "rowId": 595,
@@ -25694,7 +26824,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
+      ]
     },
     "is.workflow.actions.shazamMedia": {
       "rowId": 596,
@@ -25757,7 +26891,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Shazammedia"
+      ]
     },
     "is.workflow.actions.getdirections": {
       "rowId": 598,
@@ -25854,7 +26991,17 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "placemark",
+        "com.apple.shortcuts.Place",
+        "file",
+        "com.apple.shortcuts.Mapslink",
+        "com.apple.shortcuts.WeatherConditions",
+        "com.apple.shortcuts.ParkedCar",
+        "string",
+        "person"
+      ]
     },
     "is.workflow.actions.removeevents": {
       "rowId": 601,
@@ -25917,7 +27064,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.makediskimage": {
       "rowId": 603,
@@ -26026,7 +27176,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.ejectdisk": {
       "rowId": 604,
@@ -26067,7 +27220,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.rss": {
       "rowId": 607,
@@ -26130,7 +27286,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Article",
+        "url"
+      ]
     },
     "is.workflow.actions.makezip": {
       "rowId": 608,
@@ -26210,7 +27370,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.pausemusic": {
       "rowId": 610,
@@ -26273,7 +27436,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.documentpicker.open": {
       "rowId": 611,
@@ -26370,7 +27536,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.flexibits.fantastical2.showinfantastical": {
       "rowId": 613,
@@ -26416,7 +27585,18 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Timeinterval",
+        "string",
+        "com.apple.shortcuts.Article",
+        "file",
+        "person",
+        "com.apple.shortcuts.WeatherConditions",
+        "date",
+        "com.apple.shortcuts.ParkedCar",
+        "com.apple.shortcuts.Trellocard"
+      ]
     },
     "is.workflow.actions.contacts": {
       "rowId": 614,
@@ -26462,7 +27642,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "person"
+      ]
     },
     "is.workflow.actions.downloadurl": {
       "rowId": 616,
@@ -26610,7 +27793,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.posters.switch": {
       "rowId": 617,
@@ -26636,7 +27822,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "CglXYWxscGFwZXI=",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "fm.overcast.overcast.add": {
       "rowId": 621,
@@ -26663,7 +27852,10 @@
       "outputTypeInstance": "CgQKAkgA",
       "customIcon": null,
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.properties.appearance": {
       "rowId": 623,
@@ -26726,7 +27918,12 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "bool",
+        "com.apple.shortcuts.Appearance",
+        "string"
+      ]
     },
     "desktop.WhatsApp.openin": {
       "rowId": 624,
@@ -26772,7 +27969,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.runjavascriptforautomation": {
       "rowId": 625,
@@ -26813,7 +28013,13 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string",
+        "bool",
+        "number"
+      ]
     },
     "net.shinyfrog.bear-IOS.open": {
       "rowId": 626,
@@ -26876,7 +28082,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.health.workout.log": {
       "rowId": 627,
@@ -26938,7 +28147,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.dropbox.savefile": {
       "rowId": 631,
@@ -27035,7 +28247,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.filter.photos": {
       "rowId": 632,
@@ -27182,7 +28397,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.soulmen.ulysses.pad.read-sheet": {
       "rowId": 634,
@@ -27228,7 +28446,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Ulyssessheet"
+      ]
     },
     "is.workflow.actions.getframesfromimage": {
       "rowId": 635,
@@ -27274,7 +28495,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "com.realmacsoftware.clear.createlist": {
       "rowId": 637,
@@ -27336,7 +28560,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.deskconnect.send": {
       "rowId": 639,
@@ -27382,7 +28609,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.vibrate": {
       "rowId": 641,
@@ -27427,7 +28657,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getrichtextfrommarkdown": {
       "rowId": 642,
@@ -27473,7 +28706,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.pinboard.add": {
       "rowId": 643,
@@ -27604,7 +28840,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "url"
+      ]
     },
     "is.workflow.actions.file": {
       "rowId": 644,
@@ -27650,7 +28889,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "net.shinyfrog.bear-IOS.create": {
       "rowId": 646,
@@ -27747,7 +28989,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.filter.apps": {
       "rowId": 647,
@@ -27890,7 +29135,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "app"
+      ]
     },
     "is.workflow.actions.email": {
       "rowId": 649,
@@ -27936,7 +29184,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Emailaddress"
+      ]
     },
     "is.workflow.actions.properties.images": {
       "rowId": 651,
@@ -27999,7 +29250,17 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "date",
+        "number",
+        "string",
+        "com.apple.shortcuts.Filesize",
+        "placemark",
+        "com.apple.shortcuts.Timeinterval",
+        "bool",
+        "file"
+      ]
     },
     "net.shinyfrog.bear-IOS.search": {
       "rowId": 652,
@@ -28062,7 +29323,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.openapp": {
       "rowId": 653,
@@ -28143,7 +29407,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "app"
+      ]
     },
     "is.workflow.actions.image.mask": {
       "rowId": 655,
@@ -28240,7 +29507,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "is.workflow.actions.getpodcastsfromlibrary": {
       "rowId": 656,
@@ -28268,7 +29538,10 @@
       "outputTypeInstance": "EiQSIgogEh4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSB1BvZGNhc3Q=",
       "customIcon": null,
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Podcast"
+      ]
     },
     "is.workflow.actions.runworkflow": {
       "rowId": 657,
@@ -28314,7 +29587,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Anything"
+      ]
     },
     "is.workflow.actions.gethalfwaypoint": {
       "rowId": 659,
@@ -28377,7 +29653,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "placemark"
+      ]
     },
     "is.workflow.actions.returntohomescreen": {
       "rowId": 661,
@@ -28404,7 +29683,10 @@
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "CgpIb21lU2NyZWVu",
       "arguments": [],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.getepisodesforpodcast": {
       "rowId": 662,
@@ -28450,7 +29732,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "com.apple.shortcuts.Podcastepisode"
+      ]
     },
     "is.workflow.actions.skipback": {
       "rowId": 663,
@@ -28513,7 +29798,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "none"
+      ]
     },
     "is.workflow.actions.filter.locations": {
       "rowId": 665,
@@ -28661,7 +29949,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "placemark"
+      ]
     },
     "is.workflow.actions.date": {
       "rowId": 666,
@@ -28724,7 +30015,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "date"
+      ]
     },
     "is.workflow.actions.getupcomingreminders": {
       "rowId": 668,
@@ -28787,7 +30081,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file"
+      ]
     },
     "net.shinyfrog.bear-IOS.add": {
       "rowId": 669,
@@ -28901,7 +30198,11 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "file",
+        "string"
+      ]
     },
     "com.flexibits.fantastical2.addreminder": {
       "rowId": 671,
@@ -28981,7 +30282,10 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "string"
+      ]
     },
     "is.workflow.actions.properties.weather.conditions": {
       "rowId": 672,
@@ -29044,7 +30348,15 @@
           }
         }
       ],
-      "notes": null
+      "notes": null,
+      "outputTypes": [
+        "genericMeasurement",
+        "placemark",
+        "date",
+        "string",
+        "number",
+        "com.apple.shortcuts.AirPollutant"
+      ]
     },
     "is.workflow.actions.conditional": {
       "rowId": -1000,

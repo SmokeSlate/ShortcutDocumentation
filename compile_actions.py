@@ -123,6 +123,29 @@ def decode_requirements(blob: bytes | memoryview | None) -> List[int]:
     return parse_segment(0, end)
 
 
+def load_tool_output_types(db_path: Path) -> Dict[int, List[str]]:
+    """Load tool output type identifiers from ToolOutputTypes.json if present."""
+
+    output_path = db_path.with_name("ToolOutputTypes.json")
+    if not output_path.exists():
+        return {}
+
+    try:
+        payload = json.loads(output_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        raise SystemExit(f"Failed to parse tool output types: {exc}") from exc
+
+    grouped: MutableMapping[int, List[str]] = defaultdict(list)
+    for entry in payload:
+        tool_id = entry.get("toolId")
+        type_identifier = entry.get("typeIdentifier")
+        if tool_id is None or not type_identifier:
+            continue
+        grouped[int(tool_id)].append(type_identifier)
+
+    return dict(grouped)
+
+
 def table_columns(conn: sqlite3.Connection, table: str) -> set[str]:
     return {
         row["name"]
@@ -273,6 +296,7 @@ def build_payload(
     tool_localizations: Mapping[int, sqlite3.Row],
     parameter_localizations: Mapping[Tuple[int, str], sqlite3.Row],
     parameters: Iterable[sqlite3.Row],
+    tool_output_types: Mapping[int, List[str]],
 ) -> Mapping[str, dict]:
     params_by_tool: MutableMapping[int, List[dict]] = defaultdict(list)
     for param in parameters:
@@ -301,6 +325,7 @@ def build_payload(
     for tool in tools:
         localized = tool_localizations.get(tool["rowId"])
         requirements_blob = tool["requirements"]
+        output_types = tool_output_types.get(tool["rowId"])
         compiled[tool["id"]] = {
             "rowId": tool["rowId"],
             "name": (localized["name"] if localized else None) or tool["id"],
@@ -322,6 +347,8 @@ def build_payload(
             "arguments": params_by_tool.get(tool["rowId"], []),
             "notes": ACTION_NOTES.get(tool["id"]),
         }
+        if output_types:
+            compiled[tool["id"]]["outputTypes"] = output_types
 
     return compiled
 
@@ -393,8 +420,10 @@ def main() -> None:
     finally:
         conn.close()
 
+    tool_output_types = load_tool_output_types(db_path)
+
     compiled_actions = build_payload(
-        tools, tool_localizations, parameter_localizations, parameters
+        tools, tool_localizations, parameter_localizations, parameters, tool_output_types
     )
 
     overrides = load_manual_overrides(db_path)
