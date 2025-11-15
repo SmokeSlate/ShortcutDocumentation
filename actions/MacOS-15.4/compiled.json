@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generatedAt": "2025-11-13T19:48:22.889078+00:00",
+    "generatedAt": "2025-11-15T16:13:33.430838+00:00",
     "locale": "en",
     "fallbackLocale": "en",
     "sourceDatabase": "actions\\MacOS-15.4\\raw.sqlite",
-    "actionCount": 379
+    "actionCount": 380
   },
   "actions": {
     "is.workflow.actions.comment": {
@@ -50,7 +50,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.calculateexpression": {
       "rowId": 2,
@@ -95,7 +96,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getitemtype": {
       "rowId": 3,
@@ -140,7 +142,8 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0aXRlbXR5cGUuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getupcomingevents": {
       "rowId": 4,
@@ -236,7 +239,8 @@
             "encodedId": "CgI4AA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.image.combine": {
       "rowId": 11,
@@ -315,7 +319,8 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UuY29tYmluZS5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.alert": {
       "rowId": 12,
@@ -394,7 +399,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.reminders.showlist": {
       "rowId": 13,
@@ -438,7 +444,8 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMucmVtaW5kZXJzLnNob3dsaXN0LldGTGlzdA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.podcastshow": {
       "rowId": 14,
@@ -500,7 +507,8 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5wb2RjYXN0c2hvdy5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.seek": {
       "rowId": 15,
@@ -579,7 +587,8 @@
             "encodedId": "GgJAAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.listeningmode.set": {
       "rowId": 17,
@@ -641,7 +650,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.instapaper.get": {
       "rowId": 19,
@@ -702,7 +712,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getparentdirectory": {
       "rowId": 20,
@@ -742,7 +753,8 @@
             "encodedId": "CgOIAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.setvolume": {
       "rowId": 21,
@@ -804,7 +816,8 @@
             "encodedId": "GgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.eventattendees": {
       "rowId": 22,
@@ -866,7 +879,8 @@
             "encodedId": "EkwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5ldmVudGF0dGVuZGVlcy5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.wordpress.post": {
       "rowId": 23,
@@ -1132,7 +1146,8 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMud29yZHByZXNzLnBvc3QuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.gettext": {
       "rowId": 27,
@@ -1177,7 +1192,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.skipforward": {
       "rowId": 28,
@@ -1222,7 +1238,8 @@
             "encodedId": "GgJAAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getvalueforkey": {
       "rowId": 29,
@@ -1301,7 +1318,8 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0dmFsdWVmb3JrZXkuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.encodemedia": {
       "rowId": 30,
@@ -1550,7 +1568,8 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWlzLndvcmtmbG93LmFjdGlvbnMuZW5jb2RlbWVkaWEuV0ZNZXRhZGF0YUFydHdvcms="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.searchappstore": {
       "rowId": 32,
@@ -1663,7 +1682,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.openin": {
       "rowId": 36,
@@ -1760,7 +1780,8 @@
             "encodedId": "CgOIAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.url.expand": {
       "rowId": 37,
@@ -1805,7 +1826,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.resizewindow": {
       "rowId": 38,
@@ -1913,7 +1935,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.showdefinition": {
       "rowId": 40,
@@ -1958,7 +1981,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "net.whatsapp.WhatsApp.send": {
       "rowId": 42,
@@ -2003,7 +2027,8 @@
             "encodedId": "CgOAAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.removereminders": {
       "rowId": 44,
@@ -2048,7 +2073,8 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMucmVtb3ZlcmVtaW5kZXJzLldGSW5wdXRSZW1pbmRlcnM="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.apple.iBooksX.openin": {
       "rowId": 45,
@@ -2093,7 +2119,8 @@
             "encodedId": "EjoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSI2NvbS5hcHBsZS5pQm9va3NYLm9wZW5pbi5Cb29rc0lucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.agiletortoise.Tally2.get": {
       "rowId": 47,
@@ -2137,7 +2164,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.overlayimageonimage": {
       "rowId": 50,
@@ -2335,7 +2363,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.showinstore": {
       "rowId": 51,
@@ -2380,7 +2409,8 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuc2hvd2luc3RvcmUuV0ZQcm9kdWN0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.personalhotspot.password.get": {
       "rowId": 53,
@@ -2406,7 +2436,8 @@
       },
       "outputTypeInstance": "CgQKAjAA",
       "customIcon": "Eh8KD3BlcnNvbmFsaG90c3BvdBoFV2hpdGUiBUdyZWVu",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.image.flip": {
       "rowId": 55,
@@ -2468,7 +2499,8 @@
             "encodedId": "Ej0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJmlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UuZmxpcC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.startscreensaver": {
       "rowId": 56,
@@ -2490,7 +2522,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EiYKF21vb24uYW5kLnN0YXJzLmFydGZyYW1lGgVXaGl0ZSIEQ3lhbg==",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.phonenumber": {
       "rowId": 57,
@@ -2535,7 +2568,8 @@
             "encodedId": "CgOAAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.round": {
       "rowId": 58,
@@ -2631,7 +2665,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.ridestatus": {
       "rowId": 60,
@@ -2693,7 +2728,8 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5yaWRlc3RhdHVzLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.blackfoggames.TextTool.transform": {
       "rowId": 61,
@@ -3010,7 +3046,8 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmNvbS5ibGFja2ZvZ2dhbWVzLlRleHRUb29sLnRyYW5zZm9ybS5Tb3J0RGlyZWN0aW9u"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.image.resize": {
       "rowId": 63,
@@ -3140,7 +3177,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UucmVzaXplLldGSW1hZ2U="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "net.shinyfrog.bear-IOS.contents": {
       "rowId": 64,
@@ -3202,7 +3240,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getwebpagecontents": {
       "rowId": 66,
@@ -3247,7 +3286,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.playsound": {
       "rowId": 67,
@@ -3292,7 +3332,8 @@
             "encodedId": "EjwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSJWlzLndvcmtmbG93LmFjdGlvbnMucGxheXNvdW5kLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.converttimezone": {
       "rowId": 69,
@@ -3371,7 +3412,8 @@
             "encodedId": "GgJ4AA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.agiletortoise.Drafts4.open": {
       "rowId": 71,
@@ -3501,7 +3543,8 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWNvbS5hZ2lsZXRvcnRvaXNlLkRyYWZ0czQub3Blbi5EcmFmdHNBZnRlclN1Y2Nlc3M="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.handoff": {
       "rowId": 76,
@@ -3528,7 +3571,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "ChNDb250aW51ZUluU2hvcnRjdXRz",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.getcurrentsong": {
       "rowId": 80,
@@ -3573,7 +3617,8 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0Y3VycmVudHNvbmcuU3ViamVjdA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getdistance": {
       "rowId": 82,
@@ -3686,7 +3731,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuZ2V0ZGlzdGFuY2UuQWNjdXJhY3k="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.playmusic": {
       "rowId": 84,
@@ -3747,7 +3793,8 @@
             "encodedId": "EkwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNWlzLndvcmtmbG93LmFjdGlvbnMucGxheW11c2ljLldGUGxheU11c2ljQWN0aW9uUmVwZWF0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.articles": {
       "rowId": 87,
@@ -3894,7 +3941,8 @@
             "encodedId": "ElYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSP2lzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmFydGljbGVzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.format.number": {
       "rowId": 89,
@@ -3956,7 +4004,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.displays": {
       "rowId": 99,
@@ -4098,7 +4147,8 @@
             "encodedId": "ElYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSP2lzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmRpc3BsYXlzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.selectphoto": {
       "rowId": 100,
@@ -4160,7 +4210,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detectlanguage": {
       "rowId": 101,
@@ -4205,7 +4256,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.share": {
       "rowId": 105,
@@ -4249,7 +4301,8 @@
             "encodedId": "EjgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSIWlzLndvcmtmbG93LmFjdGlvbnMuc2hhcmUuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.safariwebpage": {
       "rowId": 106,
@@ -4311,7 +4364,8 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5zYWZhcml3ZWJwYWdlLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.agiletortoise.Tally2.updatetally": {
       "rowId": 107,
@@ -4372,7 +4426,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.image.rotate": {
       "rowId": 108,
@@ -4434,7 +4489,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2Uucm90YXRlLldGSW1hZ2U="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.omz-software.Pythonista.editscript": {
       "rowId": 109,
@@ -4478,7 +4534,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getbatterylevel": {
       "rowId": 110,
@@ -4523,7 +4580,8 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0YmF0dGVyeWxldmVsLlN1YmplY3Q="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.dictatetext": {
       "rowId": 111,
@@ -4585,7 +4643,8 @@
             "encodedId": "ElEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSOmlzLndvcmtmbG93LmFjdGlvbnMuZGljdGF0ZXRleHQuV0ZEaWN0YXRlVGV4dFN0b3BMaXN0ZW5pbmc="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.contacts": {
       "rowId": 112,
@@ -4732,7 +4791,8 @@
             "encodedId": "ElYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSP2lzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmNvbnRhY3RzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.flexibits.fantastical2.addevent": {
       "rowId": 113,
@@ -4811,7 +4871,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.importaudiofiles": {
       "rowId": 114,
@@ -4885,7 +4946,8 @@
             "encodedId": "ElUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPmlzLndvcmtmbG93LmFjdGlvbnMuaW1wb3J0YXVkaW9maWxlcy5XRkltcG9ydEF1ZGlvRmlsZXNFbmNvZGVy"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.image.crop": {
       "rowId": 115,
@@ -5015,7 +5077,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getparkedcarlocation": {
       "rowId": 116,
@@ -5037,7 +5100,8 @@
       },
       "outputTypeInstance": "CiISIAoTY29tLmFwcGxlLnNob3J0Y3V0cxIJUGFya2VkQ2Fy",
       "customIcon": "EhMKCGNhci5maWxsEAEaBUdyZWVu",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "com.blackfoggames.Schemes.schemes": {
       "rowId": 117,
@@ -5099,7 +5163,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.itunesartist": {
       "rowId": 118,
@@ -5161,7 +5226,8 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5pdHVuZXNhcnRpc3QuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.gettraveltime": {
       "rowId": 120,
@@ -5240,7 +5306,8 @@
             "encodedId": "ElIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSO2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0dHJhdmVsdGltZS5XRkdldERpcmVjdGlvbnNBY3Rpb25Nb2Rl"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.generatebarcode": {
       "rowId": 121,
@@ -5302,7 +5369,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getitemname": {
       "rowId": 125,
@@ -5364,7 +5432,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.trello": {
       "rowId": 128,
@@ -5426,7 +5495,8 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy50cmVsbG8uV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.watchmedo": {
       "rowId": 129,
@@ -5466,7 +5536,8 @@
             "encodedId": "GgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.image.convert.finder": {
       "rowId": 130,
@@ -5562,7 +5633,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UuY29udmVydC5maW5kZXIuV0ZTaXpl"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.file.select": {
       "rowId": 132,
@@ -5623,7 +5695,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.logout": {
       "rowId": 133,
@@ -5645,7 +5718,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EiYKF3BlcnNvbi5jcm9wLmNpcmNsZS5maWxsGgVXaGl0ZSIER3JheQ==",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.clearupnext": {
       "rowId": 134,
@@ -5672,7 +5746,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.geturlcomponent": {
       "rowId": 137,
@@ -5734,7 +5809,8 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0dXJsY29tcG9uZW50LldGVVJMQ29tcG9uZW50"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.selectcontacts": {
       "rowId": 138,
@@ -5779,7 +5855,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.reminders": {
       "rowId": 141,
@@ -5926,7 +6003,8 @@
             "encodedId": "ElcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSQGlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLnJlbWluZGVycy5XRkNvbnRlbnRJdGVtSW5wdXRQYXJhbWV0ZXI="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.statistics": {
       "rowId": 143,
@@ -5988,7 +6066,8 @@
             "encodedId": "EjsKE2NvbS5hcHBsZS5zaG9ydGN1dHMSJGlzLndvcmtmbG93LmFjdGlvbnMuc3RhdGlzdGljcy5JbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.agiletortoise.Drafts4.get": {
       "rowId": 144,
@@ -6033,7 +6112,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.dropbox.open": {
       "rowId": 145,
@@ -6146,7 +6226,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detect.text": {
       "rowId": 146,
@@ -6191,7 +6272,8 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LnRleHQuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.handoffplayback": {
       "rowId": 147,
@@ -6251,7 +6333,8 @@
             "encodedId": "GgJAAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.dropbox.appendfile": {
       "rowId": 149,
@@ -6347,7 +6430,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.dayonelog.dayoneiphone.post": {
       "rowId": 150,
@@ -6443,7 +6527,8 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmNvbS5kYXlvbmVsb2cuZGF5b25laXBob25lLnBvc3QuaW1hZ2VDbGlwYm9hcmQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.omnigroup.OmniFocus2.iPhone.pastetaskpaper": {
       "rowId": 154,
@@ -6556,7 +6641,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getclipboard": {
       "rowId": 155,
@@ -6583,7 +6669,8 @@
       },
       "outputTypeInstance": "EiUSIwohEh8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSCEFueXRoaW5n",
       "customIcon": "EhgKDmNsaXBib2FyZC5maWxsEAEaBEJsdWU=",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.pinboard.get": {
       "rowId": 156,
@@ -6645,7 +6732,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.addnewcontact": {
       "rowId": 158,
@@ -6809,7 +6897,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.scanbarcode": {
       "rowId": 160,
@@ -6833,7 +6922,8 @@
       },
       "outputTypeInstance": "CgUKA4gBAA==",
       "customIcon": "EiAKEXFyY29kZS52aWV3ZmluZGVyGgVXaGl0ZSIER3JheQ==",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.filter.files": {
       "rowId": 162,
@@ -6980,7 +7070,8 @@
             "encodedId": "ElMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPGlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmZpbGVzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.compresspdf": {
       "rowId": 163,
@@ -7025,7 +7116,8 @@
             "encodedId": "CgOIAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.ulysses.sheet": {
       "rowId": 165,
@@ -7087,7 +7179,8 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy51bHlzc2VzLnNoZWV0LldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "jp.naver.line.message": {
       "rowId": 166,
@@ -7114,7 +7207,8 @@
       },
       "outputTypeInstance": "IhEKBwoFCgOIAQAKBgoECgIwAA==",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.properties.music": {
       "rowId": 168,
@@ -7176,7 +7270,8 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5tdXNpYy5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.weather.forecast": {
       "rowId": 170,
@@ -7238,7 +7333,8 @@
             "encodedId": "ElEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSOmlzLndvcmtmbG93LmFjdGlvbnMud2VhdGhlci5mb3JlY2FzdC5XRldlYXRoZXJGb3JlY2FzdFR5cGU="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.omz-software.Pythonista.runscript": {
       "rowId": 172,
@@ -7299,7 +7395,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.hash": {
       "rowId": 174,
@@ -7361,7 +7458,8 @@
             "encodedId": "EjcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSIGlzLndvcmtmbG93LmFjdGlvbnMuaGFzaC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.rss.extract": {
       "rowId": 175,
@@ -7406,7 +7504,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.gethomeaccessorystate": {
       "rowId": 181,
@@ -7468,7 +7567,8 @@
             "encodedId": "ElMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPGlzLndvcmtmbG93LmFjdGlvbnMuZ2V0aG9tZWFjY2Vzc29yeXN0YXRlLldGSE1DaGFyYWN0ZXJpc3RpYw=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.homeaccessory": {
       "rowId": 185,
@@ -7513,7 +7613,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getcurrentapp": {
       "rowId": 186,
@@ -7558,7 +7659,8 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0Y3VycmVudGFwcC5XRlZpc2libGVBcHBTY29wZQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.image.removebackground": {
       "rowId": 189,
@@ -7620,7 +7722,8 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UucmVtb3ZlYmFja2dyb3VuZC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.intercom": {
       "rowId": 192,
@@ -7681,7 +7784,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.viewresult": {
       "rowId": 193,
@@ -7726,7 +7830,8 @@
             "encodedId": "Ej0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJmlzLndvcmtmbG93LmFjdGlvbnMudmlld3Jlc3VsdC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "net.shinyfrog.bear-IOS.grab": {
       "rowId": 195,
@@ -7822,7 +7927,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.podcasts.subscribe": {
       "rowId": 196,
@@ -7867,7 +7973,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.runsshscript": {
       "rowId": 197,
@@ -8014,7 +8121,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMucnVuc3Noc2NyaXB0LldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.connecttoservers": {
       "rowId": 198,
@@ -8054,7 +8162,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.list": {
       "rowId": 199,
@@ -8081,7 +8190,8 @@
       },
       "outputTypeInstance": "EiUSIwohEh8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSCEFueXRoaW5n",
       "customIcon": "EhwKC2xpc3QuYnVsbGV0GgVXaGl0ZSIGT3Jhbmdl",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.properties.podcast": {
       "rowId": 200,
@@ -8143,7 +8253,8 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5wb2RjYXN0LldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.trello.get": {
       "rowId": 202,
@@ -8222,7 +8333,8 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMudHJlbGxvLmdldC5XRlRyZWxsb0xpc3Q="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.makespokenaudiofromtext": {
       "rowId": 203,
@@ -8335,7 +8447,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.tapbots.Tweetbot.viewprofile": {
       "rowId": 205,
@@ -8380,7 +8493,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.file.getlink": {
       "rowId": 208,
@@ -8425,7 +8539,8 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuZmlsZS5nZXRsaW5rLldGRmlsZQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.boonbits.captio.appendtonote": {
       "rowId": 210,
@@ -8469,7 +8584,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.photos.createalbum": {
       "rowId": 211,
@@ -8530,7 +8646,8 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMucGhvdG9zLmNyZWF0ZWFsYnVtLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.giphy": {
       "rowId": 212,
@@ -8626,7 +8743,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "net.lickability.Quotebook.addquote": {
       "rowId": 215,
@@ -8705,7 +8823,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.format.filesize": {
       "rowId": 217,
@@ -8784,7 +8903,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.soulmen.ulysses.pad.insert": {
       "rowId": 218,
@@ -8931,7 +9051,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detect.link": {
       "rowId": 220,
@@ -8976,7 +9097,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.soulmen.ulysses.pad.attach": {
       "rowId": 221,
@@ -9089,7 +9211,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.articles": {
       "rowId": 222,
@@ -9151,7 +9274,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5hcnRpY2xlcy5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.splitpdf": {
       "rowId": 223,
@@ -9195,7 +9319,8 @@
             "encodedId": "CgOIAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.adjustdate": {
       "rowId": 224,
@@ -9274,7 +9399,8 @@
             "encodedId": "CgJgBw=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.exit": {
       "rowId": 225,
@@ -9301,7 +9427,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhgKCXN0b3AuZmlsbBoFV2hpdGUiBEdyYXk=",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.avairyeditphoto": {
       "rowId": 230,
@@ -9346,7 +9473,8 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMuYXZhaXJ5ZWRpdHBob3RvLldGRG9jdW1lbnQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.showinblindsquare": {
       "rowId": 232,
@@ -9407,7 +9535,8 @@
             "encodedId": "CgJ4AA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getrichtextfromhtml": {
       "rowId": 233,
@@ -9452,7 +9581,8 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0cmljaHRleHRmcm9taHRtbC5XRkhUTUw="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.makegif": {
       "rowId": 236,
@@ -9599,7 +9729,8 @@
             "encodedId": "EjoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSI2lzLndvcmtmbG93LmFjdGlvbnMubWFrZWdpZi5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.displaysleep": {
       "rowId": 237,
@@ -9621,7 +9752,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhYKB2Rpc3BsYXkaBVdoaXRlIgRHcmF5",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.quit.app": {
       "rowId": 238,
@@ -9695,7 +9827,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getmyworkflows": {
       "rowId": 240,
@@ -9740,7 +9873,8 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuZ2V0bXl3b3JrZmxvd3MuRm9sZGVy"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detect.dictionary": {
       "rowId": 241,
@@ -9785,7 +9919,8 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LmRpY3Rpb25hcnkuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.searchpodcasts": {
       "rowId": 245,
@@ -9898,7 +10033,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.location": {
       "rowId": 247,
@@ -9943,7 +10079,8 @@
             "encodedId": "CgJ4AA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.searchweb": {
       "rowId": 248,
@@ -10005,7 +10142,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.setters.calendarevents": {
       "rowId": 249,
@@ -10305,7 +10443,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.images": {
       "rowId": 250,
@@ -10452,7 +10591,8 @@
             "encodedId": "ElQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPWlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmltYWdlcy5XRkNvbnRlbnRJdGVtSW5wdXRQYXJhbWV0ZXI="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.measurement.convert": {
       "rowId": 252,
@@ -10531,7 +10671,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMubWVhc3VyZW1lbnQuY29udmVydC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.addtoplaylist": {
       "rowId": 254,
@@ -10592,7 +10733,8 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuYWRkdG9wbGF5bGlzdC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.waittoreturn": {
       "rowId": 255,
@@ -10618,7 +10760,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EiYKF3BlcnNvbi5iYWRnZS5jbG9jay5maWxsGgVXaGl0ZSIER3JheQ==",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "com.apple.musicrecognition.RecognizeMusicIntent": {
       "rowId": 256,
@@ -10680,7 +10823,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.goodreader.open": {
       "rowId": 257,
@@ -10724,7 +10868,8 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuZ29vZHJlYWRlci5vcGVuLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getitemfromlist": {
       "rowId": 258,
@@ -10837,7 +10982,8 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0aXRlbWZyb21saXN0LldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "squibner.AmazonLinker.search": {
       "rowId": 260,
@@ -10882,7 +11028,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.addnewevent": {
       "rowId": 261,
@@ -11080,7 +11227,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.file.reveal": {
       "rowId": 262,
@@ -11120,7 +11268,8 @@
             "encodedId": "CgOIAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getonscreencontent": {
       "rowId": 263,
@@ -11146,7 +11295,8 @@
       },
       "outputTypeInstance": "EgkSBwoFCgOIAQA=",
       "customIcon": "Eh4KD3RleHQudmlld2ZpbmRlchoFV2hpdGUiBFBpbms=",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "com.soulmen.ulysses.pad.new-sheet": {
       "rowId": 264,
@@ -11242,7 +11392,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.makeimagefrompdfpage": {
       "rowId": 267,
@@ -11338,7 +11489,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.shazam": {
       "rowId": 269,
@@ -11400,7 +11552,8 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5zaGF6YW0uV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.documentpicker.save": {
       "rowId": 270,
@@ -11513,7 +11666,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.evernote.new": {
       "rowId": 271,
@@ -11575,7 +11729,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuZXZlcm5vdGUubmV3LldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.takevideo": {
       "rowId": 272,
@@ -11652,7 +11807,8 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMudGFrZXZpZGVvLldGUmVjb3JkaW5nU3RhcnQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.gethtmlfromrichtext": {
       "rowId": 273,
@@ -11714,7 +11870,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0aHRtbGZyb21yaWNodGV4dC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.mountdiskimage": {
       "rowId": 274,
@@ -11754,7 +11911,8 @@
             "encodedId": "CgOIAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.searchlocalbusinesses": {
       "rowId": 275,
@@ -11833,7 +11991,8 @@
             "encodedId": "CgJgAQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.searchitunes": {
       "rowId": 276,
@@ -11963,7 +12122,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.input": {
       "rowId": 277,
@@ -12178,7 +12338,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getipaddress": {
       "rowId": 280,
@@ -12240,7 +12401,8 @@
             "encodedId": "Ek0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSNmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0aXBhZGRyZXNzLldGSVBBZGRyZXNzVHlwZU9wdGlvbg=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "squibner.AmazonLinker.convert": {
       "rowId": 285,
@@ -12285,7 +12447,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.posters.get": {
       "rowId": 287,
@@ -12329,7 +12492,8 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMucG9zdGVycy5nZXQuV0ZQb3N0ZXJUeXBl"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.takescreenshot": {
       "rowId": 291,
@@ -12424,7 +12588,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getdevicedetails": {
       "rowId": 293,
@@ -12469,7 +12634,8 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0ZGV2aWNlZGV0YWlscy5XRkRldmljZURldGFpbA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.savetocameraroll": {
       "rowId": 294,
@@ -12530,7 +12696,8 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuc2F2ZXRvY2FtZXJhcm9sbC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.createplaylist": {
       "rowId": 296,
@@ -12626,7 +12793,8 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMuY3JlYXRlcGxheWxpc3QuV0ZQbGF5bGlzdEl0ZW1z"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.dismisssiri": {
       "rowId": 298,
@@ -12653,7 +12821,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.setvariable": {
       "rowId": 299,
@@ -12698,7 +12867,8 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuc2V0dmFyaWFibGUuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.parkedcar": {
       "rowId": 300,
@@ -12755,7 +12925,8 @@
             "encodedId": "EkcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5wYXJrZWRjYXIuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getlastvideo": {
       "rowId": 303,
@@ -12799,7 +12970,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getcurrentlocation": {
       "rowId": 305,
@@ -12844,7 +13016,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0Y3VycmVudGxvY2F0aW9uLkFjY3VyYWN5"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.contacts": {
       "rowId": 308,
@@ -12906,7 +13079,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5jb250YWN0cy5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.measurement.create": {
       "rowId": 310,
@@ -12968,7 +13142,8 @@
             "encodedId": "CgJgAQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.runextension": {
       "rowId": 311,
@@ -13029,7 +13204,8 @@
             "encodedId": "GgIIAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.print": {
       "rowId": 314,
@@ -13073,7 +13249,8 @@
             "encodedId": "EjgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSIWlzLndvcmtmbG93LmFjdGlvbnMucHJpbnQuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.squibner.Blink.search": {
       "rowId": 315,
@@ -13118,7 +13295,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.text.trimwhitespace": {
       "rowId": 317,
@@ -13163,7 +13341,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.setters.reminders": {
       "rowId": 318,
@@ -13480,7 +13659,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.dnd.getfocus": {
       "rowId": 320,
@@ -13507,7 +13687,8 @@
       },
       "outputTypeInstance": "Ch4SHAoTY29tLmFwcGxlLnNob3J0Y3V0cxIFRm9jdXM=",
       "customIcon": "EhoKCW1vb24uZmlsbBoFV2hpdGUiBkluZGlnbw==",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.getnameofemoji": {
       "rowId": 321,
@@ -13552,7 +13733,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getlastscreenshot": {
       "rowId": 322,
@@ -13596,7 +13778,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.tumblr.post": {
       "rowId": 323,
@@ -13794,7 +13977,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.get.playlist": {
       "rowId": 326,
@@ -13839,7 +14023,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0LnBsYXlsaXN0LldGUGxheWxpc3ROYW1l"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.movewindow": {
       "rowId": 330,
@@ -13947,7 +14132,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.makeimagefromrichtext": {
       "rowId": 334,
@@ -14026,7 +14212,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.weather.currentconditions": {
       "rowId": 335,
@@ -14071,7 +14258,8 @@
             "encodedId": "CgJ4AA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.image.convert": {
       "rowId": 337,
@@ -14167,7 +14355,8 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UuY29udmVydC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.makevideofromgif": {
       "rowId": 339,
@@ -14229,7 +14418,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMubWFrZXZpZGVvZnJvbWdpZi5XRklucHV0R0lG"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.showwebpage": {
       "rowId": 343,
@@ -14291,7 +14481,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.file.getfoldercontents": {
       "rowId": 344,
@@ -14353,7 +14544,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.music": {
       "rowId": 346,
@@ -14500,7 +14692,8 @@
             "encodedId": "ElMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPGlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLm11c2ljLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.playpodcast": {
       "rowId": 347,
@@ -14562,7 +14755,8 @@
             "encodedId": "Ek0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSNmlzLndvcmtmbG93LmFjdGlvbnMucGxheXBvZGNhc3QuV0ZQb2RjYXN0UGxheWJhY2tPcmRlcg=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.runjavascriptonwebpage": {
       "rowId": 348,
@@ -14623,7 +14817,8 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMucnVuamF2YXNjcmlwdG9ud2VicGFnZS5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.lockscreen": {
       "rowId": 349,
@@ -14648,7 +14843,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhgKCWxvY2suZmlsbBoFV2hpdGUiBEdyYXk=",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.overlaytext": {
       "rowId": 350,
@@ -15033,7 +15229,8 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMub3ZlcmxheXRleHQuV0ZTaXppbmdNZXRob2Q="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.tapbots.Tweetbot.opentweetbot": {
       "rowId": 351,
@@ -15095,7 +15292,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.text.replace": {
       "rowId": 352,
@@ -15208,7 +15406,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.files": {
       "rowId": 353,
@@ -15270,7 +15469,8 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5maWxlcy5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.imgur.upload": {
       "rowId": 354,
@@ -15434,7 +15634,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.selectemail": {
       "rowId": 356,
@@ -15461,7 +15662,8 @@
       },
       "outputTypeInstance": "EikSJwolEiMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSDEVtYWlsYWRkcmVzcw==",
       "customIcon": "EhwKDWVudmVsb3BlLmZpbGwaBVdoaXRlIgRDeWFu",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.gettimebetweendates": {
       "rowId": 357,
@@ -15540,7 +15742,8 @@
             "encodedId": "Ek4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSN2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0dGltZWJldHdlZW5kYXRlcy5XRlRpbWVVbnRpbFVuaXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.url": {
       "rowId": 358,
@@ -15585,7 +15788,8 @@
             "encodedId": "CgJIAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.phocusllp.due.add": {
       "rowId": 360,
@@ -15698,7 +15902,8 @@
             "encodedId": "EjkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSImNvbS5waG9jdXNsbHAuZHVlLmFkZC5kdWVSZWN1clVuaXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.setparkedcar": {
       "rowId": 362,
@@ -15772,7 +15977,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuc2V0cGFya2VkY2FyLldGSW1hZ2U="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.workflow": {
       "rowId": 368,
@@ -15834,7 +16040,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy53b3JrZmxvdy5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.searchmaps": {
       "rowId": 370,
@@ -15896,7 +16103,8 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMuc2VhcmNobWFwcy5XRlNlYXJjaE1hcHNBY3Rpb25BcHA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.skype.skype.call": {
       "rowId": 371,
@@ -15941,7 +16149,8 @@
             "encodedId": "CgOAAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.previewdocument": {
       "rowId": 372,
@@ -16004,7 +16213,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detect.phonenumber": {
       "rowId": 374,
@@ -16049,7 +16259,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.file.delete": {
       "rowId": 375,
@@ -16111,7 +16322,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.recordaudio": {
       "rowId": 376,
@@ -16207,7 +16419,8 @@
             "encodedId": "CgJgBw=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.runapplescript": {
       "rowId": 377,
@@ -16247,7 +16460,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMucnVuYXBwbGVzY3JpcHQuSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.sleep": {
       "rowId": 379,
@@ -16269,7 +16483,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "EhkKCnBvd2Vyc2xlZXAaBVdoaXRlIgRHcmF5",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.file.append": {
       "rowId": 381,
@@ -16382,7 +16597,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.personalhotspot.password.set": {
       "rowId": 383,
@@ -16426,7 +16642,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.tapbots.Tweetbot.tweet": {
       "rowId": 384,
@@ -16471,7 +16688,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.evernote.append": {
       "rowId": 385,
@@ -16550,7 +16768,8 @@
             "encodedId": "Ek4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSN2lzLndvcmtmbG93LmFjdGlvbnMuZXZlcm5vdGUuYXBwZW5kLldGRXZlcm5vdGVXcml0ZU1vZGU="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.addnewcalendar": {
       "rowId": 386,
@@ -16595,7 +16814,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.removefromalbum": {
       "rowId": 387,
@@ -16656,7 +16876,8 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMucmVtb3ZlZnJvbWFsYnVtLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.delay": {
       "rowId": 388,
@@ -16701,7 +16922,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.omnigroup.OmniFocus2.iPhone.newitem": {
       "rowId": 389,
@@ -16899,7 +17121,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.wallpaper.set": {
       "rowId": 391,
@@ -17027,7 +17250,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.guidedways.2Do.add": {
       "rowId": 392,
@@ -17310,7 +17534,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.address": {
       "rowId": 393,
@@ -17440,7 +17665,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.appendvariable": {
       "rowId": 397,
@@ -17485,7 +17711,8 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuYXBwZW5kdmFyaWFibGUuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.setvalueforkey": {
       "rowId": 398,
@@ -17564,7 +17791,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMuc2V0dmFsdWVmb3JrZXkuV0ZEaWN0aW9uYXJ5"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.count": {
       "rowId": 401,
@@ -17626,7 +17854,8 @@
             "encodedId": "EjYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSH2lzLndvcmtmbG93LmFjdGlvbnMuY291bnQuSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.calendarevents": {
       "rowId": 402,
@@ -17688,7 +17917,8 @@
             "encodedId": "EkwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5jYWxlbmRhcmV2ZW50cy5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.makepdf": {
       "rowId": 403,
@@ -17835,7 +18065,8 @@
             "encodedId": "Ek0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSNmlzLndvcmtmbG93LmFjdGlvbnMubWFrZXBkZi5XRlBERkRvY3VtZW50TWVyZ2VCZWhhdmlvcg=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.openpasswords": {
       "rowId": 404,
@@ -17879,7 +18110,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.url.getheaders": {
       "rowId": 405,
@@ -17924,7 +18156,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getlatestphotoimport": {
       "rowId": 408,
@@ -17950,7 +18183,8 @@
       },
       "outputTypeInstance": "EgkSBwoFCgOIAQA=",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.splitscreen": {
       "rowId": 409,
@@ -18028,7 +18262,8 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuc3BsaXRzY3JlZW4uV0ZBcHBSYXRpbw=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.airdropdocument": {
       "rowId": 411,
@@ -18072,7 +18307,8 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuYWlyZHJvcGRvY3VtZW50LldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.setitemname": {
       "rowId": 412,
@@ -18151,7 +18387,8 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuc2V0aXRlbW5hbWUuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.todoist.add": {
       "rowId": 413,
@@ -18315,7 +18552,8 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMudG9kb2lzdC5hZGQuV0ZUb2RvaXN0RmlsZQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detect.number": {
       "rowId": 418,
@@ -18360,7 +18598,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detect.images": {
       "rowId": 420,
@@ -18405,7 +18644,8 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LmltYWdlcy5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.evernote.getlink": {
       "rowId": 421,
@@ -18467,7 +18707,8 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuZXZlcm5vdGUuZ2V0bGluay5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.tweet": {
       "rowId": 422,
@@ -18512,7 +18753,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.evernote.delete": {
       "rowId": 425,
@@ -18557,7 +18799,8 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuZXZlcm5vdGUuZGVsZXRlLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.postonfacebook": {
       "rowId": 426,
@@ -18601,7 +18844,8 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMucG9zdG9uZmFjZWJvb2suRmFjZWJvb2tDb250ZW50"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.dictionary": {
       "rowId": 427,
@@ -18646,6 +18890,10 @@
             "encodedId": "CgJQAA=="
           }
         }
+      ],
+      "notes": [
+        "Provide dictionary data via the `WFItems` parameter. When building shortcuts with `js-to-shortcut`, call `serialization.dictionary({ key: value })` and assign the result to `WFItems` (for example: `action('is.workflow.actions.dictionary', { WFItems: serialization.dictionary({ name: 'Value' }) })`).",
+        "Each entry is stored as a `WFDictionaryFieldValueItem` with an inferred `WFItemType` \u2014 strings map to type 0, objects to 1, arrays to 2, numbers to 3, and booleans to 4. The serialization helper handles these conversions automatically."
       ]
     },
     "com.boonbits.captio.sendnote": {
@@ -18690,7 +18938,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.format.date": {
       "rowId": 430,
@@ -18837,7 +19086,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuZm9ybWF0LmRhdGUuV0ZMb2NhbGU="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.takephoto": {
       "rowId": 431,
@@ -18914,7 +19164,8 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMudGFrZXBob3RvLldGQ2FtZXJhQ2FwdHVyZURldmljZQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.unzip": {
       "rowId": 433,
@@ -18959,7 +19210,8 @@
             "encodedId": "EjoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSI2lzLndvcmtmbG93LmFjdGlvbnMudW56aXAuV0ZBcmNoaXZl"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.reminders": {
       "rowId": 435,
@@ -19021,7 +19273,8 @@
             "encodedId": "EkcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5yZW1pbmRlcnMuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.omz-software.Editorial.runworkflow": {
       "rowId": 436,
@@ -19099,7 +19352,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.soulmen.ulysses.pad.new-group": {
       "rowId": 437,
@@ -19178,7 +19432,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.tapbots.Tweetbot.searchtext": {
       "rowId": 439,
@@ -19240,7 +19495,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.setters.contacts": {
       "rowId": 442,
@@ -19693,7 +19949,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.vpn.set": {
       "rowId": 443,
@@ -19770,7 +20027,8 @@
             "encodedId": "GgJwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.file.label": {
       "rowId": 444,
@@ -19827,7 +20085,8 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWlzLndvcmtmbG93LmFjdGlvbnMuZmlsZS5sYWJlbC5XRkxhYmVsQ29sb3JOdW1iZXI="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.trello.add.card": {
       "rowId": 445,
@@ -19974,7 +20233,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.itunesstore": {
       "rowId": 447,
@@ -20036,7 +20296,8 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5pdHVuZXNzdG9yZS5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.tijo.opener.Opener.show-options": {
       "rowId": 448,
@@ -20080,7 +20341,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.soulmen.ulysses.pad.open": {
       "rowId": 449,
@@ -20159,7 +20421,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.selectphone": {
       "rowId": 450,
@@ -20186,7 +20449,8 @@
       },
       "outputTypeInstance": "EigSJgokEiIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSC1Bob25lbnVtYmVy",
       "customIcon": "EhoKCnBob25lLmZpbGwaBVdoaXRlIgVHcmVlbg==",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "com.culturedcode.ThingsTouch.addtask": {
       "rowId": 452,
@@ -20384,7 +20648,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.trello.add.list": {
       "rowId": 453,
@@ -20463,7 +20728,8 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMudHJlbGxvLmFkZC5saXN0LldGVHJlbGxvUG9zaXRpb24="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getvariable": {
       "rowId": 454,
@@ -20508,7 +20774,8 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0dmFyaWFibGUuV0ZWYXJpYWJsZQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.panic.iOS.Transmit.Share": {
       "rowId": 456,
@@ -20587,7 +20854,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.evernote.get": {
       "rowId": 461,
@@ -20649,7 +20917,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.text.translate": {
       "rowId": 464,
@@ -20727,7 +20996,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.setairdropreceiving": {
       "rowId": 467,
@@ -20771,7 +21041,8 @@
             "encodedId": "Ek0KE2NvbS5hcHBsZS5zaG9ydGN1dHMSNmlzLndvcmtmbG93LmFjdGlvbnMuc2V0YWlyZHJvcHJlY2VpdmluZy5XRkFpckRyb3BTdGF0ZQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.health.quantity.log": {
       "rowId": 468,
@@ -20797,7 +21068,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "CgZIZWFsdGg=",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.extracttextfromimage": {
       "rowId": 469,
@@ -20841,7 +21113,8 @@
             "encodedId": "EkcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMGlzLndvcmtmbG93LmFjdGlvbnMuZXh0cmFjdHRleHRmcm9taW1hZ2UuV0ZJbWFnZQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.runshellscript": {
       "rowId": 471,
@@ -20949,7 +21222,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.squibner.Blink.convert": {
       "rowId": 473,
@@ -20976,7 +21250,8 @@
       },
       "outputTypeInstance": "IhAKBgoECgJIAAoGCgQKAjAA",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.nothing": {
       "rowId": 476,
@@ -21003,7 +21278,8 @@
       },
       "outputTypeInstance": "CiESHwoTY29tLmFwcGxlLnNob3J0Y3V0cxIIQW55dGhpbmc=",
       "customIcon": "Eh0KDXNxdWFyZS5kYXNoZWQaBUxhYmVsIgVDbGVhcg==",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.readinglist": {
       "rowId": 477,
@@ -21048,7 +21324,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.addnewreminder": {
       "rowId": 479,
@@ -21314,7 +21591,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.urlencode": {
       "rowId": 480,
@@ -21376,7 +21654,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.number.random": {
       "rowId": 481,
@@ -21438,7 +21717,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getlatestlivephotos": {
       "rowId": 483,
@@ -21482,7 +21762,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.agiletortoise.Drafts4.runAction": {
       "rowId": 486,
@@ -21561,7 +21842,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.pocket.get": {
       "rowId": 487,
@@ -21657,7 +21939,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.agiletortoise.Drafts4.addto": {
       "rowId": 488,
@@ -21821,7 +22104,8 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmNvbS5hZ2lsZXRvcnRvaXNlLkRyYWZ0czQuYWRkdG8uRHJhZnRzQWZ0ZXJTdWNjZXNz"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.math": {
       "rowId": 490,
@@ -21934,7 +22218,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getclassaction": {
       "rowId": 492,
@@ -21996,7 +22281,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuZ2V0Y2xhc3NhY3Rpb24uSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.eventattendees": {
       "rowId": 494,
@@ -22143,7 +22429,8 @@
             "encodedId": "ElwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSRWlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmV2ZW50YXR0ZW5kZWVzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.file.rename": {
       "rowId": 499,
@@ -22205,7 +22492,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.locations": {
       "rowId": 501,
@@ -22267,7 +22555,8 @@
             "encodedId": "EkcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMGlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5sb2NhdGlvbnMuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.safari.geturl": {
       "rowId": 503,
@@ -22289,7 +22578,8 @@
       },
       "outputTypeInstance": "CiYSJAoTY29tLmFwcGxlLnNob3J0Y3V0cxINU2FmYXJpd2VicGFnZQ==",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.base64encode": {
       "rowId": 505,
@@ -22368,7 +22658,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuYmFzZTY0ZW5jb2RlLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "ph.telegra.Telegraph.msg": {
       "rowId": 508,
@@ -22413,7 +22704,8 @@
             "encodedId": "CgOAAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detect.emailaddress": {
       "rowId": 510,
@@ -22458,7 +22750,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detect.address": {
       "rowId": 512,
@@ -22503,7 +22796,8 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LmFkZHJlc3MuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.setclipboard": {
       "rowId": 513,
@@ -22582,7 +22876,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMuc2V0Y2xpcGJvYXJkLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.instapaper.add": {
       "rowId": 514,
@@ -22643,7 +22938,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getarticle": {
       "rowId": 519,
@@ -22688,7 +22984,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.potionfactory.TheHitListMobile.tasks": {
       "rowId": 520,
@@ -22852,7 +23149,8 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGNvbS5wb3Rpb25mYWN0b3J5LlRoZUhpdExpc3RNb2JpbGUudGFza3MudGhsUHJpb3JpdHk="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.realmacsoftware.clear.createtask": {
       "rowId": 521,
@@ -22930,7 +23228,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detect.contacts": {
       "rowId": 522,
@@ -22975,7 +23274,8 @@
             "encodedId": "EkIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSK2lzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LmNvbnRhY3RzLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.google.chrome.ios.openurl": {
       "rowId": 524,
@@ -23020,7 +23320,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.file.createfolder": {
       "rowId": 525,
@@ -23082,7 +23383,8 @@
             "encodedId": "CgOIAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.addmusictoupnext": {
       "rowId": 526,
@@ -23143,7 +23445,8 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuYWRkbXVzaWN0b3VwbmV4dC5XRk11c2lj"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.notification": {
       "rowId": 531,
@@ -23239,7 +23542,8 @@
             "encodedId": "Ej8KE2NvbS5hcHBsZS5zaG9ydGN1dHMSKGlzLndvcmtmbG93LmFjdGlvbnMubm90aWZpY2F0aW9uLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getlastphoto": {
       "rowId": 532,
@@ -23300,7 +23604,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.openxcallbackurl": {
       "rowId": 533,
@@ -23447,7 +23752,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getwifi": {
       "rowId": 534,
@@ -23526,7 +23832,8 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuZ2V0d2lmaS5XRkNlbGx1bGFyRGV0YWls"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.setplaybackdestination": {
       "rowId": 535,
@@ -23587,7 +23894,8 @@
             "encodedId": "GgJAAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.trello.add.board": {
       "rowId": 538,
@@ -23649,7 +23957,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.finder.getselectedfiles": {
       "rowId": 539,
@@ -23671,7 +23980,8 @@
       },
       "outputTypeInstance": "EgkSBwoFCgOIAQA=",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.output": {
       "rowId": 541,
@@ -23750,7 +24060,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.gettypeaction": {
       "rowId": 542,
@@ -23812,7 +24123,8 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMuZ2V0dHlwZWFjdGlvbi5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.reboot": {
       "rowId": 545,
@@ -23856,7 +24168,8 @@
             "encodedId": "EkAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKWlzLndvcmtmbG93LmFjdGlvbnMucmVib290LldGU2h1dGRvd25Nb2Rl"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getmapslink": {
       "rowId": 546,
@@ -23901,7 +24214,8 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0bWFwc2xpbmsuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.lock.app": {
       "rowId": 548,
@@ -23960,7 +24274,8 @@
             "encodedId": "GgIIAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.trimvideo": {
       "rowId": 551,
@@ -24005,7 +24320,8 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMudHJpbXZpZGVvLldGSW5wdXRNZWRpYQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.detect.date": {
       "rowId": 552,
@@ -24050,7 +24366,8 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMuZGV0ZWN0LmRhdGUuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.addframetogif": {
       "rowId": 553,
@@ -24180,7 +24497,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.speaktext": {
       "rowId": 556,
@@ -24310,7 +24628,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.showincalendar": {
       "rowId": 559,
@@ -24355,7 +24674,8 @@
             "encodedId": "EkEKE2NvbS5hcHBsZS5zaG9ydGN1dHMSKmlzLndvcmtmbG93LmFjdGlvbnMuc2hvd2luY2FsZW5kYXIuV0ZFdmVudA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getlatestbursts": {
       "rowId": 561,
@@ -24399,7 +24719,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.number": {
       "rowId": 567,
@@ -24444,7 +24765,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.calendarevents": {
       "rowId": 568,
@@ -24591,7 +24913,8 @@
             "encodedId": "ElwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSRWlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmNhbGVuZGFyZXZlbnRzLldGQ29udGVudEl0ZW1JbnB1dFBhcmFtZXRlcg=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.file.move": {
       "rowId": 573,
@@ -24670,7 +24993,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.outerspaceapps.itranslate.translate": {
       "rowId": 575,
@@ -24748,7 +25072,8 @@
             "encodedId": "EkkKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMmNvbS5vdXRlcnNwYWNlYXBwcy5pdHJhbnNsYXRlLnRyYW5zbGF0ZS5Ub0xhbmd1YWdl"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.windows": {
       "rowId": 576,
@@ -24890,7 +25215,8 @@
             "encodedId": "ElUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPmlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLndpbmRvd3MuV0ZDb250ZW50SXRlbUlucHV0UGFyYW1ldGVy"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.appstore": {
       "rowId": 577,
@@ -24952,7 +25278,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5hcHBzdG9yZS5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.hide.app": {
       "rowId": 580,
@@ -25009,7 +25336,8 @@
             "encodedId": "GgIIAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getmarkdownfromrichtext": {
       "rowId": 583,
@@ -25054,7 +25382,8 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0bWFya2Rvd25mcm9tcmljaHRleHQuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.pocket.add": {
       "rowId": 586,
@@ -25116,7 +25445,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.exportsong": {
       "rowId": 589,
@@ -25159,7 +25489,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.apple.mobileslideshow.StreamShareService": {
       "rowId": 591,
@@ -25202,7 +25533,8 @@
             "encodedId": "Ek4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSN2NvbS5hcHBsZS5tb2JpbGVzbGlkZXNob3cuU3RyZWFtU2hhcmVTZXJ2aWNlLkltYWdlSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.showresult": {
       "rowId": 592,
@@ -25247,7 +25579,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.gettextfrompdf": {
       "rowId": 595,
@@ -25360,7 +25693,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.shazamMedia": {
       "rowId": 596,
@@ -25422,7 +25756,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getdirections": {
       "rowId": 598,
@@ -25518,7 +25853,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.removeevents": {
       "rowId": 601,
@@ -25580,7 +25916,8 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMucmVtb3ZlZXZlbnRzLldGSW5wdXRFdmVudHM="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.makediskimage": {
       "rowId": 603,
@@ -25688,7 +26025,8 @@
             "encodedId": "CgJgFA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.ejectdisk": {
       "rowId": 604,
@@ -25728,7 +26066,8 @@
             "encodedId": "CgOIAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.rss": {
       "rowId": 607,
@@ -25790,7 +26129,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.makezip": {
       "rowId": 608,
@@ -25869,7 +26209,8 @@
             "encodedId": "EjoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSI2lzLndvcmtmbG93LmFjdGlvbnMubWFrZXppcC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.pausemusic": {
       "rowId": 610,
@@ -25931,7 +26272,8 @@
             "encodedId": "GgJAAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.documentpicker.open": {
       "rowId": 611,
@@ -26027,7 +26369,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.flexibits.fantastical2.showinfantastical": {
       "rowId": 613,
@@ -26072,7 +26415,8 @@
             "encodedId": "CgI4AA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.contacts": {
       "rowId": 614,
@@ -26117,7 +26461,8 @@
             "encodedId": "CgOAAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.downloadurl": {
       "rowId": 616,
@@ -26264,7 +26609,8 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWlzLndvcmtmbG93LmFjdGlvbnMuZG93bmxvYWR1cmwuV0ZSZXF1ZXN0VmFyaWFibGU="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.posters.switch": {
       "rowId": 617,
@@ -26289,7 +26635,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "CglXYWxscGFwZXI=",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "fm.overcast.overcast.add": {
       "rowId": 621,
@@ -26315,7 +26662,8 @@
       },
       "outputTypeInstance": "CgQKAkgA",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.properties.appearance": {
       "rowId": 623,
@@ -26377,7 +26725,8 @@
             "encodedId": "EkgKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5hcHBlYXJhbmNlLldGSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "desktop.WhatsApp.openin": {
       "rowId": 624,
@@ -26422,7 +26771,8 @@
             "encodedId": "EjwKE2NvbS5hcHBsZS5zaG9ydGN1dHMSJWRlc2t0b3AuV2hhdHNBcHAub3BlbmluLldoYXRzQXBwSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.runjavascriptforautomation": {
       "rowId": 625,
@@ -26462,7 +26812,8 @@
             "encodedId": "EksKE2NvbS5hcHBsZS5zaG9ydGN1dHMSNGlzLndvcmtmbG93LmFjdGlvbnMucnVuamF2YXNjcmlwdGZvcmF1dG9tYXRpb24uSW5wdXQ="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "net.shinyfrog.bear-IOS.open": {
       "rowId": 626,
@@ -26524,7 +26875,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.health.workout.log": {
       "rowId": 627,
@@ -26585,7 +26937,8 @@
             "encodedId": "CgJgBw=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.dropbox.savefile": {
       "rowId": 631,
@@ -26681,7 +27034,8 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuZHJvcGJveC5zYXZlZmlsZS5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.photos": {
       "rowId": 632,
@@ -26827,7 +27181,8 @@
             "encodedId": "ElQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSPWlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLnBob3Rvcy5XRkNvbnRlbnRJdGVtSW5wdXRQYXJhbWV0ZXI="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.soulmen.ulysses.pad.read-sheet": {
       "rowId": 634,
@@ -26872,7 +27227,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getframesfromimage": {
       "rowId": 635,
@@ -26917,7 +27273,8 @@
             "encodedId": "EkUKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLmlzLndvcmtmbG93LmFjdGlvbnMuZ2V0ZnJhbWVzZnJvbWltYWdlLldGSW1hZ2U="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.realmacsoftware.clear.createlist": {
       "rowId": 637,
@@ -26978,7 +27335,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.deskconnect.send": {
       "rowId": 639,
@@ -27023,7 +27381,8 @@
             "encodedId": "EkMKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLGlzLndvcmtmbG93LmFjdGlvbnMuZGVza2Nvbm5lY3Quc2VuZC5XRklucHV0"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.vibrate": {
       "rowId": 641,
@@ -27067,7 +27426,8 @@
             "encodedId": "EkYKE2NvbS5hcHBsZS5zaG9ydGN1dHMSL2lzLndvcmtmbG93LmFjdGlvbnMudmlicmF0ZS5XRlZpYnJhdGVIYXB0aWNUeXBl"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getrichtextfrommarkdown": {
       "rowId": 642,
@@ -27112,7 +27472,8 @@
             "encodedId": "EkoKE2NvbS5hcHBsZS5zaG9ydGN1dHMSM2lzLndvcmtmbG93LmFjdGlvbnMuZ2V0cmljaHRleHRmcm9tbWFya2Rvd24uV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.pinboard.add": {
       "rowId": 643,
@@ -27242,7 +27603,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.file": {
       "rowId": 644,
@@ -27287,7 +27649,8 @@
             "encodedId": "CgOIAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "net.shinyfrog.bear-IOS.create": {
       "rowId": 646,
@@ -27383,7 +27746,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.apps": {
       "rowId": 647,
@@ -27525,7 +27889,8 @@
             "encodedId": "ElIKE2NvbS5hcHBsZS5zaG9ydGN1dHMSO2lzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmFwcHMuV0ZDb250ZW50SXRlbUlucHV0UGFyYW1ldGVy"
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.email": {
       "rowId": 649,
@@ -27570,7 +27935,8 @@
             "encodedId": "CgOAAQA="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.images": {
       "rowId": 651,
@@ -27632,7 +27998,8 @@
             "encodedId": "EkQKE2NvbS5hcHBsZS5zaG9ydGN1dHMSLWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy5pbWFnZXMuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "net.shinyfrog.bear-IOS.search": {
       "rowId": 652,
@@ -27694,7 +28061,8 @@
             "encodedId": "CgIwAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.openapp": {
       "rowId": 653,
@@ -27774,7 +28142,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.image.mask": {
       "rowId": 655,
@@ -27870,7 +28239,8 @@
             "encodedId": "EkcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSMGlzLndvcmtmbG93LmFjdGlvbnMuaW1hZ2UubWFzay5XRkN1c3RvbU1hc2tJbWFnZQ=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getpodcastsfromlibrary": {
       "rowId": 656,
@@ -27897,7 +28267,8 @@
       },
       "outputTypeInstance": "EiQSIgogEh4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSB1BvZGNhc3Q=",
       "customIcon": null,
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.runworkflow": {
       "rowId": 657,
@@ -27942,7 +28313,8 @@
             "encodedId": "Ej4KE2NvbS5hcHBsZS5zaG9ydGN1dHMSJ2lzLndvcmtmbG93LmFjdGlvbnMucnVud29ya2Zsb3cuV0ZJbnB1dA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.gethalfwaypoint": {
       "rowId": 659,
@@ -28004,7 +28376,8 @@
             "encodedId": "CgJ4AA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.returntohomescreen": {
       "rowId": 661,
@@ -28030,7 +28403,8 @@
       },
       "outputTypeInstance": "CgQKAggA",
       "customIcon": "CgpIb21lU2NyZWVu",
-      "arguments": []
+      "arguments": [],
+      "notes": null
     },
     "is.workflow.actions.getepisodesforpodcast": {
       "rowId": 662,
@@ -28075,7 +28449,8 @@
             "encodedId": "GgJQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.skipback": {
       "rowId": 663,
@@ -28137,7 +28512,8 @@
             "encodedId": "GgJAAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.filter.locations": {
       "rowId": 665,
@@ -28284,7 +28660,8 @@
             "encodedId": "ElcKE2NvbS5hcHBsZS5zaG9ydGN1dHMSQGlzLndvcmtmbG93LmFjdGlvbnMuZmlsdGVyLmxvY2F0aW9ucy5XRkNvbnRlbnRJdGVtSW5wdXRQYXJhbWV0ZXI="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.date": {
       "rowId": 666,
@@ -28346,7 +28723,8 @@
             "encodedId": "CgI4AA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.getupcomingreminders": {
       "rowId": 668,
@@ -28408,7 +28786,8 @@
             "encodedId": "CgIgAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "net.shinyfrog.bear-IOS.add": {
       "rowId": 669,
@@ -28521,7 +28900,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "com.flexibits.fantastical2.addreminder": {
       "rowId": 671,
@@ -28600,7 +28980,8 @@
             "encodedId": "CgIQAA=="
           }
         }
-      ]
+      ],
+      "notes": null
     },
     "is.workflow.actions.properties.weather.conditions": {
       "rowId": 672,
@@ -28660,6 +29041,96 @@
             "runtimeFlags": null,
             "runtimeRequirements": "",
             "encodedId": "ElAKE2NvbS5hcHBsZS5zaG9ydGN1dHMSOWlzLndvcmtmbG93LmFjdGlvbnMucHJvcGVydGllcy53ZWF0aGVyLmNvbmRpdGlvbnMuV0ZJbnB1dA=="
+          }
+        }
+      ],
+      "notes": null
+    },
+    "is.workflow.actions.conditional": {
+      "rowId": -1000,
+      "name": "If",
+      "description": "Branch your shortcut based on whether the supplied input matches a condition. Use WFControlFlowMode = 0 for If, 1 for Otherwise, and 2 for End If blocks.",
+      "toolType": "action",
+      "sourceActionProvider": "WFBundledActionProvider",
+      "sourceContainerId": 1,
+      "attributionContainerId": null,
+      "flags": 128,
+      "visibilityFlags": 7,
+      "authenticationPolicy": "none",
+      "deprecationReplacementId": null,
+      "requirements": {
+        "raw": null,
+        "decoded": []
+      },
+      "outputTypeInstance": null,
+      "customIcon": null,
+      "arguments": [
+        {
+          "rowId": -10001,
+          "key": "WFConditionalActionString",
+          "name": "Label",
+          "description": "Optional name for this If block as it appears inside the action editor.",
+          "sortOrder": 0,
+          "flags": 0,
+          "relationships": "",
+          "typeInstance": "",
+          "type": {
+            "rowId": "manual.string",
+            "kind": 1,
+            "runtimeFlags": null,
+            "runtimeRequirements": "",
+            "encodedId": null
+          }
+        },
+        {
+          "rowId": -10002,
+          "key": "WFCondition",
+          "name": "Comparison",
+          "description": "Integer enum describing how to compare WFInput to WFConditionalActionString (equals, contains, greater than, etc.).",
+          "sortOrder": 1,
+          "flags": 0,
+          "relationships": "",
+          "typeInstance": "",
+          "type": {
+            "rowId": "manual.integer",
+            "kind": 2,
+            "runtimeFlags": null,
+            "runtimeRequirements": "",
+            "encodedId": null
+          }
+        },
+        {
+          "rowId": -10003,
+          "key": "WFInput",
+          "name": "Input",
+          "description": "Serialized token describing the value that will be compared.",
+          "sortOrder": 2,
+          "flags": 0,
+          "relationships": "",
+          "typeInstance": "",
+          "type": {
+            "rowId": "manual.variable",
+            "kind": 7,
+            "runtimeFlags": null,
+            "runtimeRequirements": "",
+            "encodedId": null
+          }
+        },
+        {
+          "rowId": -10004,
+          "key": "WFControlFlowMode",
+          "name": "Branch Type",
+          "description": "0 = If, 1 = Otherwise, 2 = End If. js-to-shortcut automatically maintains these values when building grouped actions.",
+          "sortOrder": 3,
+          "flags": 0,
+          "relationships": "",
+          "typeInstance": "",
+          "type": {
+            "rowId": "manual.integer",
+            "kind": 2,
+            "runtimeFlags": null,
+            "runtimeRequirements": "",
+            "encodedId": null
           }
         }
       ]
